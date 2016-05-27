@@ -1,0 +1,348 @@
+<World name="" loaded_scene="">
+	<Scene name="omgftw">
+		gravity = 0
+		gravityAxis = ""
+		groups = {"someGroup"; "someOtherGroup"}
+
+		<Mesh name = "Cube">
+			<Vertex n=0>
+				x = 1
+				y = 1
+				z = -1
+				normalx = 0.577349
+				normaly = 0.577349
+				normalz = -0.577349
+
+				id = 0
+
+			</Vertex>
+
+			<Vertex n=1>
+				x = 1
+				y = -1
+				z = -1
+				normalx = 0.577349
+				normaly = -0.577349
+				normalz = -0.577349
+
+				id = 1
+
+			</Vertex>
+
+			<Vertex n=2>
+				x = -1
+				y = -1
+				z = -1
+				normalx = -0.577349
+				normaly = -0.577349
+				normalz = -0.577349
+
+				id = 2
+
+			</Vertex>
+
+			<Vertex n=3>
+				x = -1
+				y = 1
+				z = -1
+				normalx = -0.577349
+				normaly = 0.577349
+				normalz = -0.577349
+
+				id = 3
+
+			</Vertex>
+
+			<Vertex n=4>
+				x = 1
+				y = 0.999999
+				z = 1
+				normalx = 0.577349
+				normaly = 0.577349
+				normalz = 0.577349
+
+				id = 4
+
+			</Vertex>
+
+			<Vertex n=5>
+				x = -1
+				y = 1
+				z = 1
+				normalx = -0.577349
+				normaly = 0.577349
+				normalz = 0.577349
+
+				id = 5
+
+			</Vertex>
+
+			<Vertex n=6>
+				x = -1
+				y = -1
+				z = 1
+				normalx = -0.577349
+				normaly = -0.577349
+				normalz = 0.577349
+
+				id = 6
+
+			</Vertex>
+
+			<Vertex n=7>
+				x = 0.999999
+				y = -1
+				z = 1
+				normalx = 0.577349
+				normaly = -0.577349
+				normalz = 0.577349
+
+				id = 7
+
+			</Vertex>
+
+			<Vertex n=8>
+				x = 1
+				y = 1
+				z = -1
+				normalx = 0.577349
+				normaly = 0.577349
+				normalz = -0.577349
+
+				id = 8
+
+			</Vertex>
+
+			<Vertex n=9>
+				x = 1
+				y = 0.999999
+				z = 1
+				normalx = 0.577349
+				normaly = 0.577349
+				normalz = 0.577349
+
+				id = 9
+
+			</Vertex>
+
+			<Vertex n=10>
+				x = 0.999999
+				y = -1
+				z = 1
+				normalx = 0.577349
+				normaly = -0.577349
+				normalz = 0.577349
+
+				id = 10
+
+			</Vertex>
+
+			<Vertex n=11>
+				x = 1
+				y = -1
+				z = -1
+				normalx = 0.577349
+				normaly = -0.577349
+				normalz = -0.577349
+
+				id = 11
+
+			</Vertex>
+
+			<Vertex n=12>
+				x = 1
+				y = -1
+				z = -1
+				normalx = 0.577349
+				normaly = -0.577349
+				normalz = -0.577349
+
+				id = 12
+
+			</Vertex>
+
+			<Vertex n=13>
+				x = 0.999999
+				y = -1
+				z = 1
+				normalx = 0.577349
+				normaly = -0.577349
+				normalz = 0.577349
+
+				id = 13
+
+			</Vertex>
+
+			<Vertex n=14>
+				x = -1
+				y = -1
+				z = 1
+				normalx = -0.577349
+				normaly = -0.577349
+				normalz = 0.577349
+
+				id = 14
+
+			</Vertex>
+
+			<Vertex n=15>
+				x = -1
+				y = -1
+				z = -1
+				normalx = -0.577349
+				normaly = -0.577349
+				normalz = -0.577349
+
+				id = 15
+
+			</Vertex>
+
+			<Vertex n=16>
+				x = -1
+				y = -1
+				z = -1
+				normalx = -0.577349
+				normaly = -0.577349
+				normalz = -0.577349
+
+				id = 16
+
+			</Vertex>
+
+			<Vertex n=17>
+				x = -1
+				y = -1
+				z = 1
+				normalx = -0.577349
+				normaly = -0.577349
+				normalz = 0.577349
+
+				id = 17
+
+			</Vertex>
+
+			<Vertex n=18>
+				x = -1
+				y = 1
+				z = 1
+				normalx = -0.577349
+				normaly = 0.577349
+				normalz = 0.577349
+
+				id = 18
+
+			</Vertex>
+
+			<Vertex n=19>
+				x = -1
+				y = 1
+				z = -1
+				normalx = -0.577349
+				normaly = 0.577349
+				normalz = -0.577349
+
+				id = 19
+
+			</Vertex>
+
+			<Vertex n=20>
+				x = 1
+				y = 0.999999
+				z = 1
+				normalx = 0.577349
+				normaly = 0.577349
+				normalz = 0.577349
+
+				id = 20
+
+			</Vertex>
+
+			<Vertex n=21>
+				x = 1
+				y = 1
+				z = -1
+				normalx = 0.577349
+				normaly = 0.577349
+				normalz = -0.577349
+
+				id = 21
+
+			</Vertex>
+
+			<Vertex n=22>
+				x = -1
+				y = 1
+				z = -1
+				normalx = -0.577349
+				normaly = 0.577349
+				normalz = -0.577349
+
+				id = 22
+
+			</Vertex>
+
+			<Vertex n=23>
+				x = -1
+				y = 1
+				z = 1
+				normalx = -0.577349
+				normaly = 0.577349
+				normalz = 0.577349
+
+				id = 23
+
+			</Vertex>
+
+			<VertexGroup name="Material">
+				material = "Material"
+				bone_name = ""
+				polygons = {"0"; "1"; "2"; "3"; "4"; "5"}
+			</VertexGroup>
+
+			<Physics>
+				bounciness = ""
+				vehicle = 0
+				tire = 0
+			</Physics>
+
+			lights =}
+
+			pos = {0; 0; 0; 0; 100}
+			rot = {0; 0; 0; 0; 60}
+			sca = {1; 1; 1; 0; 45}
+		</Mesh>
+
+		<Texture name="Material|_|Tex">
+			path = ""
+			type = ""
+			stencil_name = ""
+			uv_map = ""
+			stencil_num = 0
+		</Texture>
+
+		<Material name="Material">
+			shadeless = 0
+			dif = {0.8; 0.8; 0.8; 0.8; }
+			scol = {1; 1; 1; 1; }
+			alpha = 1
+			specular_intensity = 50
+			specular_hardness = 50
+			translucency = {0; 0; 0; 0; 32; }
+			illuminosity = {0; 0; 0; 0; 9; }
+			cube_map = 0
+			cm_resolution = 0
+			texureNames = {Material|_|COLOR|_|}
+		</Material>
+
+		<TCM name="Material|_|COLOR|_|">
+			texureNames = {Material|_|Tex}
+			translucency = {1; 1; 1; 1; 52; }
+			tex_indices = {0; 0}
+			modes = {1}
+			combine_mode = "COLOR"
+
+		</TCM>
+
+	</Scene>
+
+</World>

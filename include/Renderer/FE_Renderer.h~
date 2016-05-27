@@ -1,0 +1,100 @@
+#ifndef FE_RENDERER_H
+#define FE_RENDERER_H
+
+#include "FE_MeshRenderData.h"
+
+#define Shader(src) "#version 150 \n" #src
+
+void DebugCallback(unsigned int source, unsigned int type,
+unsigned int id, unsigned int severity,
+                                  int length, const char* message, void* userParam);
+
+asdasd
+struct FE_GeneralData{
+    FE_Mat4 perspective_mat;
+    FE_Mat4 view_mat;
+    GLuint uniform_index;
+    GLuint uniform_binding_offset = 1;
+    bool created_ubo = false;
+    GLuint soft_body_id[2];
+};
+
+struct FE_GLShader{
+    GLuint index = 0;
+    const GLchar* source;
+};
+
+/** This class is specific to OpenGL 3.2 / OpenGL ES 3.0
+  * since the concept of 'programs' is only mandatory on those
+  */
+class FE_GLSimpleProgram{
+public:
+    string name;
+    GLuint index;
+    FE_GLShader vs;
+    FE_GLShader fs;
+    string vao;
+
+    FE_GLSimpleProgram(){};
+    void chooseProgram(FE_Scene*, FE_MaterialData);
+    void destroy();
+    bool checkShader(GLuint);
+    bool checkLinking(GLuint);
+    bool validateProgram(GLuint);
+
+};
+
+struct FE_Viewport{
+    int width, height;
+    int x, y;
+};
+
+class FE_Renderer : public FE_THREAD_SAFETY_OBJECT
+{
+    friend class FEngine;
+    public:
+
+        FE_GPU_API api;
+        FE_GPU_Info* info = nullptr;
+
+        FE_Renderer();
+        ~FE_Renderer();
+        bool init(int, int);
+        bool initSDL(string, int, int, FE_RENDERTYPE);
+        bool update(FE_Scene*);
+        bool updateSDL(FE_Scene*);
+
+        void createThread(string);
+        void flushThread(string);
+        void removeThread(string);
+
+        bool destroy();
+        void writeToLog(const char*);
+        void writeToLog(string);
+
+    protected:
+
+        SDL_RWops* logfile;
+        SDL_Window* window;
+
+        SDL_GLContext context;
+        FE_RENDERTYPE render_type;
+
+        //vector<FE_GLVertexArray> vaos;
+
+        //vector<FE_GLVertexBuffer> pos_vbos;
+        //vector<FE_GLVertexBuffer> nor_vbos;
+        //vector<FE_GLVertexBuffer> uv_vbos;
+        //vector<FE_GLVertexBuffer> index_vbos;
+        struct FE_GeneralData general_data;
+        //vector<FE_MeshRenderData> meshes;
+        vector<FE_MaterialData> materials;
+        vector<FE_GLSimpleProgram> programs;
+
+
+
+        map<GLuint, bool> ubo_bindings;
+};
+
+#endif // FE_RENDERER_H
+

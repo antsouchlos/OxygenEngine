@@ -1,0 +1,2413 @@
+<World name="omgftw" loaded_scene="omgftw">
+
+	<Scene name="omgftw">
+
+		gravity=0.0
+		gravityAxis=""
+
+		<Camera name="Camera">
+
+			aspect_ratio=1.7035959823
+			field_of_view=0.0
+			near=0.1000000014
+			far=100.0
+			pos={ 0.0; -0.0; 0.0;0.0 }
+			rot={ 0.0; 0.0; 0.0;0.0 }
+		</Camera>
+
+
+		<Mesh name="Cube.001">
+
+			pos={ 3.3630802631; 0.0; 0.0;0.0 }
+			rot={ 0.0; 0.0; 0.0;0.0 }
+			sca={ 1.0; 1.0; 1.0;0.0 }
+			<Vertex n=0>
+
+				x=1.0742133855
+				y=0.9999999403
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=0
+				<UVMap name="UVMap">
+
+					u=1.9868213740
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=1>
+
+				x=1.0742133855
+				y=-1.0
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=1
+				<UVMap name="UVMap">
+
+					u=0.3333332836
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=2>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=1.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=3>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=8.9406952952
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=4>
+
+				x=-0.925786852
+				y=-0.999999642
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=-0.692526042
+				normal_z=0.0476393923
+				id=6
+				<UVMap name="UVMap">
+
+					u=0.6666667461
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=5>
+
+				x=-0.736585140
+				y=-0.999999642
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=-0.584612548
+				normal_z=0.6103091239
+				id=10
+				<UVMap name="UVMap">
+
+					u=0.6666667461
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=6>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.3333334028
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=7>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=8>
+
+				x=1.0742133855
+				y=-1.0"
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=1
+				<UVMap name="UVMap">
+
+					u=0.6666666269
+					v=1.9868211964
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=9>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.2914337332
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=10>
+
+				x=-0.925786852
+				y=-0.999999642
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=-0.692526042
+				normal_z=0.0476393923
+				id=6
+				<UVMap name="UVMap">
+
+					u=0.3333332240
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=11>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.3333332538
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=12>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=1.0
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=13>
+
+				x=-0.925786852
+				y=-0.999999642
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=-0.692526042
+				normal_z=0.0476393923
+				id=6
+				<UVMap name="UVMap">
+
+					u=0.6666667461
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=14>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=8.9406952952
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=15>
+
+				x=1.0742133855
+				y=0.9999999403
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=0
+				<UVMap name="UVMap">
+
+					u=0.3333332836
+					v=0.3333334326
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=16>
+
+				x=-0.925786137
+				y=1.0000003576
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=3
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.6666666269
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=17>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=18>
+
+				x=-0.736584722
+				y=1.0
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=0.5846125483
+				normal_z=0.6103091239
+				id=11
+				<UVMap name="UVMap">
+
+					u=0.6666665673
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=19>
+
+				x=-0.736585140
+				y=-0.999999642
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=-0.584612548
+				normal_z=0.6103091239
+				id=10
+				<UVMap name="UVMap">
+
+					u=0.3333333432
+					v=0.6666666865
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=20>
+
+				x=1.2634147405
+				y=-1.000000596
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=-0.570696115
+				normal_z=0.5410016179
+				id=9
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.3333334922
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=21>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.2914337332
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=22>
+
+				x=1.2634147405
+				y=-1.000000596
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=-0.570696115
+				normal_z=0.5410016179
+				id=9
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.2914337332
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=23>
+
+				x=-0.736585140
+				y=-0.999999642
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=-0.584612548
+				normal_z=0.6103091239
+				id=10
+				<UVMap name="UVMap">
+
+					u=0.3333332240
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=24>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=25>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=26>
+
+				x=-0.736584722
+				y=1.0
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=0.5846125483
+				normal_z=0.6103091239
+				id=11
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=27>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.3333334028
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=28>
+
+				x=1.2634156942
+				y=0.9999994635
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=0.5706961154
+				normal_z=0.5410016179
+				id=8
+				<UVMap name="UVMap">
+
+					u=0.3333334028
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=29>
+
+				x=1.2634147405
+				y=-1.000000596
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=-0.570696115
+				normal_z=0.5410016179
+				id=9
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=30>
+
+				x=-0.925786137
+				y=1.0000003576
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=3
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=31>
+
+				x=1.0742133855
+				y=0.9999999403
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=0
+				<UVMap name="UVMap">
+
+					u=1.9868213740
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=32>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=1.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=33>
+
+				x=-0.736584722
+				y=1.0
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=0.5846125483
+				normal_z=0.6103091239
+				id=11
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=8.9406952952
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=34>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=8.9406952952
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=35>
+
+				x=-0.736585140
+				y=-0.999999642
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=-0.584612548
+				normal_z=0.6103091239
+				id=10
+				<UVMap name="UVMap">
+
+					u=0.6666667461
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=36>
+
+				x=1.0742133855
+				y=0.9999999403
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=0
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=0.3333332836
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=37>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.3333334028
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=38>
+
+				x=1.0742133855
+				y=-1.0
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=1
+				<UVMap name="UVMap">
+
+					u=0.6666666269
+					v=1.9868211964
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=39>
+
+				x=1.0742133855
+				y=-1.0
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=1
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=40>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.2914337332
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=41>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.3333332538
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=42>
+
+				x=-0.925786137
+				y=1.0000003576
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=3
+				<UVMap name="UVMap">
+
+					u=1.0
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=43>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=1.0
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=44>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=8.9406952952
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=45>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=46>
+
+				x=1.0742133855
+				y=0.9999999403
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=0
+				<UVMap name="UVMap">
+
+					u=0.3333332836
+					v=0.3333334326
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=47>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=48>
+
+				x=1.2634156942
+				y=0.9999994635
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=0.5706961154
+				normal_z=0.5410016179
+				id=8
+				<UVMap name="UVMap">
+
+					u=0.6666666269
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=49>
+
+				x=-0.736584722
+				y=1.0
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=0.5846125483
+				normal_z=0.6103091239
+				id=11
+				<UVMap name="UVMap">
+
+					u=0.6666665673
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=50>
+
+				x=1.2634147405
+				y=-1.000000596
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=-0.570696115
+				normal_z=0.5410016179
+				id=9
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.3333334922
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=51>
+
+				x=-0.925786852
+				y=-0.999999642
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=-0.692526042
+				normal_z=0.0476393923
+				id=6
+				<UVMap name="UVMap">
+
+					u=0.3333332240
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=52>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.2914337332
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=53>
+
+				x=-0.736585140
+				y=-0.999999642
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=-0.584612548
+				normal_z=0.6103091239
+				id=10
+				<UVMap name="UVMap">
+
+					u=0.3333332240
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=54>
+
+				x=1.2634156942
+				y=0.9999994635
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=0.5706961154
+				normal_z=0.5410016179
+				id=8
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=55>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=56>
+
+				x=-0.736584722
+				y=1.0
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=0.5846125483
+				normal_z=0.6103091239
+				id=11
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=57>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=58>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.3333334028
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=59>
+
+				x=1.2634147405
+				y=-1.000000596
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=-0.570696115
+				normal_z=0.5410016179
+				id=9
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<VertexGroup name="asd">
+
+				material="asd"
+				bone_name=""
+				polygons = { 0 ; 1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7 ; 8 ; 9 ; 10 ; 11 ; 12 ; 13 ; 14 ; 15 ; 16 ; 17 ; 18 ; 19 }
+			</VertexGroup>
+
+
+			<Polygon n=0>
+
+				normal={ 0.0; 0.0; -1.0;0.0 }
+				vertexNums = { 0 ; 1 ; 2 }
+			</Polygon>
+
+			<Polygon n=1>
+
+				normal={ -0.991275131; 2.0679614465; 0.1318091005;0.0 }
+				vertexNums = { 7 ; 6 ; 10 }
+			</Polygon>
+
+			<Polygon n=2>
+
+				normal={ 1.0; -4.768371582; 2.3841843699;0.0 }
+				vertexNums = { 4 ; 5 ; 1 }
+			</Polygon>
+
+			<Polygon n=3>
+
+				normal={ -4.768372150; -1.0; 8.9406903214;0.0 }
+				vertexNums = { 5 ; 6 ; 2 }
+			</Polygon>
+
+			<Polygon n=4>
+
+				normal={ -1.0; 2.0861631355; -1.192093179;0.0 }
+				vertexNums = { 2 ; 6 ; 7 }
+			</Polygon>
+
+			<Polygon n=5>
+
+				normal={ 2.0861631355; 1.0; 1.7881396274;0.0 }
+				vertexNums = { 0 ; 3 ; 7 }
+			</Polygon>
+
+			<Polygon n=6>
+
+				normal={ 0.0; -0.0; 1.0;0.0 }
+				vertexNums = { 11 ; 10 ; 9 }
+			</Polygon>
+
+			<Polygon n=7>
+
+				normal={ -4.768372150; -1.0; 6.3404719696;0.0 }
+				vertexNums = { 5 ; 9 ; 10 }
+			</Polygon>
+
+			<Polygon n=8>
+
+				normal={ 2.6822087306; 1.0; -3.566512774;0.0 }
+				vertexNums = { 4 ; 7 ; 11 }
+			</Polygon>
+
+			<Polygon n=9>
+
+				normal={ 0.9912751317; -4.726768167; -0.131809189;0.0 }
+				vertexNums = { 4 ; 8 ; 9 }
+			</Polygon>
+
+			<Polygon n=10>
+
+				normal={ 0.0; 0.0; -1.0;0.0 }
+				vertexNums = { 3 ; 0 ; 2 }
+			</Polygon>
+
+			<Polygon n=11>
+
+				normal={ -0.991275131; 1.9723961486; 0.1318091005;0.0 }
+				vertexNums = { 11 ; 7 ; 10 }
+			</Polygon>
+
+			<Polygon n=12>
+
+				normal={ 1.0; 0.0; -2.384185791;0.0 }
+				vertexNums = { 0 ; 4 ; 1 }
+			</Polygon>
+
+			<Polygon n=13>
+
+				normal={ -8.940696716; -1.0; -2.980232522;0.0 }
+				vertexNums = { 1 ; 5 ; 2 }
+			</Polygon>
+
+			<Polygon n=14>
+
+				normal={ -1.0; 2.3841855067; -1.490115550;0.0 }
+				vertexNums = { 3 ; 2 ; 7 }
+			</Polygon>
+
+			<Polygon n=15>
+
+				normal={ 2.6822087306; 1.0; 2.3841852225;0.0 }
+				vertexNums = { 4 ; 0 ; 7 }
+			</Polygon>
+
+			<Polygon n=16>
+
+				normal={ -0.0; -0.0; 1.0;0.0 }
+				vertexNums = { 8 ; 11 ; 9 }
+			</Polygon>
+
+			<Polygon n=17>
+
+				normal={ -4.768372150; -1.0; 6.3404684169;0.0 }
+				vertexNums = { 6 ; 5 ; 10 }
+			</Polygon>
+
+			<Polygon n=18>
+
+				normal={ 2.6822084464; 1.0; -3.566514550;0.0 }
+				vertexNums = { 8 ; 4 ; 11 }
+			</Polygon>
+
+			<Polygon n=19>
+
+				normal={ 0.9912751317; -4.726768167; -0.131809189;0.0 }
+				vertexNums = { 5 ; 4 ; 9 }
+			</Polygon>
+
+			<Physics>
+
+				bounciness=""
+				vehicle=0
+				tire=0
+			</Physics>
+
+		</Mesh>
+
+		<Mesh name="Cube">
+
+			pos={ 0.0; 0.0; 0.0;0.0 }
+			rot={ 0.0; 0.0; 0.0;0.0 }
+			sca={ 1.0; 1.0; 1.0;0.0 }
+			<Vertex n=0>
+
+				x=1.0742133855
+				y=0.9999999403
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=0
+				<UVMap name="UVMap">
+
+					u=1.9868213740
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=1>
+
+				x=1.0742133855
+				y=-1.0
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=1
+				<UVMap name="UVMap">
+
+					u=0.3333332836
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=2>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=1.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=3>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=8.9406952952
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=4>
+
+				x=-0.925786852
+				y=-0.999999642
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=-0.692526042
+				normal_z=0.0476393923
+				id=6
+				<UVMap name="UVMap">
+
+					u=0.6666667461
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=5>
+
+				x=-0.736585140
+				y=-0.999999642
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=-0.584612548
+				normal_z=0.6103091239
+				id=10
+				<UVMap name="UVMap">
+
+					u=0.6666667461
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=6>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.3333334028
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=7>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=8>
+
+				x=1.0742133855
+				y=-1.0
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=1
+				<UVMap name="UVMap">
+
+					u=0.6666666269
+					v=1.9868211964
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=9>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.2914337332
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=10>
+
+				x=-0.925786852
+				y=-0.999999642
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=-0.692526042
+				normal_z=0.0476393923
+				id=6
+				<UVMap name="UVMap">
+
+					u=0.3333332240
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=11>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.3333332538
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=12>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=1.0
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=13>
+
+				x=-0.925786852
+				y=-0.999999642
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=-0.692526042
+				normal_z=0.0476393923
+				id=6
+				<UVMap name="UVMap">
+
+					u=0.6666667461
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=14>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=8.9406952952
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=15>
+
+				x=1.0742133855
+				y=0.9999999403
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=0
+				<UVMap name="UVMap">
+
+					u=0.3333332836
+					v=0.3333334326
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=16>
+
+				x=-0.925786137
+				y=1.0000003576
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=3
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.6666666269
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=17>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=18>
+
+				x=-0.736584722
+				y=1.0
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=0.5846125483
+				normal_z=0.6103091239
+				id=11
+				<UVMap name="UVMap">
+
+					u=0.6666665673
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=19>
+
+				x=-0.736585140
+				y=-0.999999642
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=-0.584612548
+				normal_z=0.6103091239
+				id=10
+				<UVMap name="UVMap">
+
+					u=0.3333333432
+					v=0.6666666865
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=20>
+
+				x=1.2634147405
+				y=-1.000000596
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=-0.570696115
+				normal_z=0.5410016179
+				id=9
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.3333334922
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=21>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.2914337332
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=22>
+
+				x=1.2634147405
+				y=-1.000000596
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=-0.570696115
+				normal_z=0.5410016179
+				id=9
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.2914337332
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=23>
+
+				x=-0.736585140
+				y=-0.999999642
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=-0.584612548
+				normal_z=0.6103091239
+				id=10
+				<UVMap name="UVMap">
+
+					u=0.3333332240
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=24>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=25>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=26>
+
+				x=-0.736584722
+				y=1.0
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=0.5846125483
+				normal_z=0.6103091239
+				id=11
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=27>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.3333334028
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=28>
+
+				x=1.2634156942
+				y=0.9999994635
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=0.5706961154
+				normal_z=0.5410016179
+				id=8
+				<UVMap name="UVMap">
+
+					u=0.3333334028
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=29>
+
+				x=1.2634147405
+				y=-1.000000596
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=-0.570696115
+				normal_z=0.5410016179
+				id=9
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=30>
+
+				x=-0.925786137
+				y=1.0000003576
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=3
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=31>
+
+				x=1.0742133855
+				y=0.9999999403
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=0
+				<UVMap name="UVMap">
+
+					u=1.9868213740
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=32>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=1.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=33>
+
+				x=-0.736584722
+				y=1.0
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=0.5846125483
+				normal_z=0.6103091239
+				id=11
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=8.9406952952
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=34>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=8.9406952952
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=35>
+
+				x=-0.736585140
+				y=-0.999999642
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=-0.584612548
+				normal_z=0.6103091239
+				id=10
+				<UVMap name="UVMap">
+
+					u=0.6666667461
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=36>
+
+				x=1.0742133855
+				y=0.9999999403
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=0
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=0.3333332836
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=37>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.3333334028
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=38>
+
+				x=1.0742133855
+				y=-1.0
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=1
+				<UVMap name="UVMap">
+
+					u=0.6666666269
+					v=1.9868211964
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=39>
+
+				x=1.0742133855
+				y=-1.0
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=1
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=40>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.2914337332
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=41>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.3333332538
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=42>
+
+				x=-0.925786137
+				y=1.0000003576
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=3
+				<UVMap name="UVMap">
+
+					u=1.0
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=43>
+
+				x=-0.925786614
+				y=-0.999999821
+				z=0.0529544353
+				normal_x=-0.577349185
+				normal_y=-0.577349185
+				normal_z=-0.577349185
+				id=2
+				<UVMap name="UVMap">
+
+					u=1.0
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=44>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=0.6666666865
+					v=8.9406952952
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=45>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=46>
+
+				x=1.0742133855
+				y=0.9999999403
+				z=0.0529544353
+				normal_x=0.5773491859
+				normal_y=0.5773491859
+				normal_z=-0.577349185
+				id=0
+				<UVMap name="UVMap">
+
+					u=0.3333332836
+					v=0.3333334326
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=47>
+
+				x=-0.925786435
+				y=1.0
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=0.6925260424
+				normal_z=0.0476393923
+				id=7
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=48>
+
+				x=1.2634156942
+				y=0.9999994635
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=0.5706961154
+				normal_z=0.5410016179
+				id=8
+				<UVMap name="UVMap">
+
+					u=0.6666666269
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=49>
+
+				x=-0.736584722
+				y=1.0
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=0.5846125483
+				normal_z=0.6103091239
+				id=11
+				<UVMap name="UVMap">
+
+					u=0.6666665673
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=50>
+
+				x=1.2634147405
+				y=-1.000000596
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=-0.570696115
+				normal_z=0.5410016179
+				id=9
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.3333334922
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=51>
+
+				x=-0.925786852
+				y=-0.999999642
+				z=2.0529544353
+				normal_x=-0.719779074
+				normal_y=-0.692526042
+				normal_z=0.0476393923
+				id=6
+				<UVMap name="UVMap">
+
+					u=0.3333332240
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=52>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=1.2914337332
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=53>
+
+				x=-0.736585140
+				y=-0.999999642
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=-0.584612548
+				normal_z=0.6103091239
+				id=10
+				<UVMap name="UVMap">
+
+					u=0.3333332240
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=54>
+
+				x=1.2634156942
+				y=0.9999994635
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=0.5706961154
+				normal_z=0.5410016179
+				id=8
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=55>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.0
+					v=0.3333334028
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=56>
+
+				x=-0.736584722
+				y=1.0
+				z=3.4758527278
+				normal_x=-0.534531712
+				normal_y=0.5846125483
+				normal_z=0.6103091239
+				id=11
+				<UVMap name="UVMap">
+
+					u=2.9802320611
+					v=0.6666667461
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=57>
+
+				x=1.0742129087
+				y=-1.000000596
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=-0.722251057
+				normal_z=-0.045655690
+				id=5
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=58>
+
+				x=1.0742138624
+				y=0.9999994635
+				z=2.0529544353
+				normal_x=0.6900845170
+				normal_y=0.7222510576
+				normal_z=-0.045655690
+				id=4
+				<UVMap name="UVMap">
+
+					u=0.3333334028
+					v=0.3333333134
+				</UVMap>
+
+			</Vertex>
+
+			<Vertex n=59>
+
+				x=1.2634147405
+				y=-1.000000596
+				z=3.4758527278
+				normal_x=0.6176946163
+				normal_y=-0.570696115
+				normal_z=0.5410016179
+				id=9
+				<UVMap name="UVMap">
+
+					u=0.3333333134
+					v=0.0
+				</UVMap>
+
+			</Vertex>
+
+			<VertexGroup name="omgftw">
+
+				material="omgftw"
+				bone_name=""
+				polygons = { 0 ; 1 ; 2 ; 3 ; 4 ; 5 ; 6 ; 7 ; 8 ; 9 ; 10 ; 11 ; 12 ; 13 ; 14 ; 15 ; 16 ; 17 ; 18 ; 19 }
+			</VertexGroup>
+
+
+			<Polygon n=0>
+
+				normal={ 0.0; 0.0; -1.0;0.0 }
+				vertexNums = { 0 ; 1 ; 2 }
+			</Polygon>
+
+			<Polygon n=1>
+
+				normal={ -0.991275131; 2.0679614465; 0.1318091005;0.0 }
+				vertexNums = { 7 ; 6 ; 10 }
+			</Polygon>
+
+			<Polygon n=2>
+
+				normal={ 1.0; -4.768371582; 2.3841843699;0.0 }
+				vertexNums = { 4 ; 5 ; 1 }
+			</Polygon>
+
+			<Polygon n=3>
+
+				normal={ -4.768372150; -1.0; 8.9406903214;0.0 }
+				vertexNums = { 5 ; 6 ; 2 }
+			</Polygon>
+
+			<Polygon n=4>
+
+				normal={ -1.0; 2.0861631355; -1.192093179;0.0 }
+				vertexNums = { 2 ; 6 ; 7 }
+			</Polygon>
+
+			<Polygon n=5>
+
+				normal={ 2.0861631355; 1.0; 1.7881396274;0.0 }
+				vertexNums = { 0 ; 3 ; 7 }
+			</Polygon>
+
+			<Polygon n=6>
+
+				normal={ 0.0; -0.0; 1.0;0.0 }
+				vertexNums = { 11 ; 10 ; 9 }
+			</Polygon>
+
+			<Polygon n=7>
+
+				normal={ -4.768372150; -1.0; 6.3404719696;0.0 }
+				vertexNums = { 5 ; 9 ; 10 }
+			</Polygon>
+
+			<Polygon n=8>
+
+				normal={ 2.6822087306; 1.0; -3.566512774;0.0 }
+				vertexNums = { 4 ; 7 ; 11 }
+			</Polygon>
+
+			<Polygon n=9>
+
+				normal={ 0.9912751317; -4.726768167; -0.131809189;0.0 }
+				vertexNums = { 4 ; 8 ; 9 }
+			</Polygon>
+
+			<Polygon n=10>
+
+				normal={ 0.0; 0.0; -1.0;0.0 }
+				vertexNums = { 3 ; 0 ; 2 }
+			</Polygon>
+
+			<Polygon n=11>
+
+				normal={ -0.991275131; 1.9723961486; 0.1318091005;0.0 }
+				vertexNums = { 11 ; 7 ; 10 }
+			</Polygon>
+
+			<Polygon n=12>
+
+				normal={ 1.0; 0.0; -2.384185791;0.0 }
+				vertexNums = { 0 ; 4 ; 1 }
+			</Polygon>
+
+			<Polygon n=13>
+
+				normal={ -8.940696716; -1.0; -2.980232522;0.0 }
+				vertexNums = { 1 ; 5 ; 2 }
+			</Polygon>
+
+			<Polygon n=14>
+
+				normal={ -1.0; 2.3841855067; -1.490115550;0.0 }
+				vertexNums = { 3 ; 2 ; 7 }
+			</Polygon>
+
+			<Polygon n=15>
+
+				normal={ 2.6822087306; 1.0; 2.3841852225;0.0 }
+				vertexNums = { 4 ; 0 ; 7 }
+			</Polygon>
+
+			<Polygon n=16>
+
+				normal={ -0.0; -0.0; 1.0;0.0 }
+				vertexNums = { 8 ; 11 ; 9 }
+			</Polygon>
+
+			<Polygon n=17>
+
+				normal={ -4.768372150; -1.0; 6.3404684169;0.0 }
+				vertexNums = { 6 ; 5 ; 10 }
+			</Polygon>
+
+			<Polygon n=18>
+
+				normal={ 2.6822084464; 1.0; -3.566514550;0.0 }
+				vertexNums = { 8 ; 4 ; 11 }
+			</Polygon>
+
+			<Polygon n=19>
+
+				normal={ 0.9912751317; -4.726768167; -0.131809189;0.0 }
+				vertexNums = { 5 ; 4 ; 9 }
+			</Polygon>
+
+			<Physics>
+
+				bounciness=""
+				vehicle=0
+				tire=0
+			</Physics>
+
+		</Mesh>
+
+		<Texture name="asd|_|Tex">
+
+			path="//test.png"
+			type=""
+			stencil_name=""
+			uv_map="UVMap"
+			stencil_num=0
+		</Texture>
+
+		<Texture name="omgftw|_|Tex">
+
+			path="//test.png"
+			type=""
+			stencil_name=""
+			uv_map="UVMap"
+			stencil_num=0
+		</Texture>
+
+		<Material name="asd">
+
+			shadeless=0
+			dif = { 0.8000000715 ; 0.0230229496 ; 0.0372965745 ; 0.8000000119 }
+			scol = { 1.0 ; 1.0 ; 1.0 ; 1.0 }
+			alpha=1.0
+			specular_intensity=0.5
+			specular_hardness=50
+			translucency={ 0.0; 0.0; 0.0;0.0 }
+			illuminosity={ 0.0; 0.0; 0.0;0.0 }
+			cm_resolution=0
+			cube_map=0
+			textureNames = { "asd|_|COLOR|_|" }
+		</Material>
+
+		<Material name="omgftw">
+
+			shadeless=0
+			dif = { 0.8000000119 ; 0.8000000119 ; 0.8000000119 ; 0.8000000119 }
+			scol = { 1.0 ; 1.0 ; 1.0 ; 1.0 }
+			alpha=1.0
+			specular_intensity=0.5
+			specular_hardness=50
+			translucency={ 0.0; 0.0; 0.0;0.0 }
+			illuminosity={ 0.0; 0.0; 0.0;0.0 }
+			cm_resolution=0
+			cube_map=0
+			textureNames = { "omgftw|_|COLOR|_|" }
+		</Material>
+
+		<TCM name="asd|_|COLOR|_|">
+
+			combine_mode="COLOR"
+			value={ 1.0; 1.0; 1.0;1.0 }
+			textureNames = { "asd|_|Tex" }
+			tex_indices = { 0 ; 0 }
+			modes = { 1 }
+			/*THE ERROR WAS HERE ('MODES' SHOULD NOT CONTAIN A STRING)*/
+		</TCM>
+
+		<TCM name="omgftw|_|COLOR|_|">
+
+			combine_mode="COLOR"
+			value={ 1.0; 1.0; 1.0;1.0 }
+			textureNames = { "asd|_|Tex" }
+			tex_indices = { 0 ; 0 }
+			modes = { 1 }
+			/*THE ERROR WAS ALSO HERE (SAME AS ABOVE)*/
+		</TCM>
+
+	</Scene>
+
+</World>

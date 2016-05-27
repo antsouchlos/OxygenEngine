@@ -1,0 +1,40 @@
+
+
+//////////////////////////
+2015-06-22.15:12:12
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+FE ERROR: File Not Found - fe_export_test2.fle
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2015-06-22.15:12:26
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+FE ERROR: File Not Found - fe_export_test2.fle
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2015-06-22.15:12:47
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-22.16:09:41
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.13:59:02
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.13:59:11
+API : OpenGL 3.2 
+ Initiated Successfully

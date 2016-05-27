@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Oxygen_Engine" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Oxygen_Engine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Oxygen_Engine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++11" />
+			<Add option="-Wall" />
+			<Add directory="/home/silverphil/Dropbox/OxygenEngine/mainline/include" />
+			<Add directory="/home/silverphil/Dropbox/OxygenEngine/mainline/include/Events" />
+			<Add directory="/home/silverphil/Dropbox/OxygenEngine/mainline/include/Carbon" />
+			<Add directory="/home/silverphil/Dropbox/OxygenEngine/mainline/include/types" />
+			<Add directory="/home/silverphil/Dropbox/OxygenEngine/mainline/include/Renderer" />
+			<Add directory="/home/silverphil/Dropbox/OxygenEngine/mainline/include/Hydrogen_Engine" />
+		</Compiler>
+		<Unit filename="include/Carbon/CRB_Lexer.h" />
+		<Unit filename="include/Carbon/CSL_Interpreter.h" />
+		<Unit filename="include/Carbon/CSL_Parser.h" />
+		<Unit filename="include/Carbon/CSL_Writer.h" />
+		<Unit filename="include/Carbon/Carbon_Parser.h" />
+		<Unit filename="include/Carbon/Exceptions.h" />
+		<Unit filename="include/Events/FE_Event.h" />
+		<Unit filename="include/Events/FE_EventHandler.h" />
+		<Unit filename="include/Events/FE_EventParser.h" />
+		<Unit filename="include/Events/FE_InputEventHandler.h" />
+		<Unit filename="include/Events/FE_MutexCondition.h" />
+		<Unit filename="include/FEngine.h" />
+		<Unit filename="include/FError.h" />
+		<Unit filename="include/FGamepad.h" />
+		<Unit filename="include/FKeyboard.h" />
+		<Unit filename="include/FMath.h" />
+		<Unit filename="include/FMouse.h" />
+		<Unit filename="include/FTask.h" />
+		<Unit filename="include/FWorldManager.h" />
+		<Unit filename="include/FtaskManager.h" />
+		<Unit filename="include/Hydrogen_Engine/Collision_Engine.h" />
+		<Unit filename="include/Hydrogen_Engine/HE_Types.h" />
+		<Unit filename="include/Hydrogen_Engine/Hydrogen_Engine.h" />
+		<Unit filename="include/Renderer/FE_GPU_API.h" />
+		<Unit filename="include/Renderer/FE_GPU_CommandQueue.h" />
+		<Unit filename="include/Renderer/FE_GPU_Info.h" />
+		<Unit filename="include/Renderer/FE_GPU_Program.h" />
+		<Unit filename="include/Renderer/FE_GPU_Shader.h" />
+		<Unit filename="include/Renderer/FE_GPU_Thread.h" />
+		<Unit filename="include/Renderer/FE_GPU_Uniform.h" />
+		<Unit filename="include/Renderer/FE_GPU_VertexBuffer.h" />
+		<Unit filename="include/Renderer/FE_GPU_VertexLayout.h" />
+		<Unit filename="include/Renderer/FE_MeshRenderData.h" />
+		<Unit filename="include/Renderer/FE_Renderer.h" />
+		<Unit filename="include/types/FE_Animation.h" />
+		<Unit filename="include/types/FE_Camera.h" />
+		<Unit filename="include/types/FE_Interaction.h" />
+		<Unit filename="include/types/FE_Libs.h" />
+		<Unit filename="include/types/FE_Light.h" />
+		<Unit filename="include/types/FE_Material.h" />
+		<Unit filename="include/types/FE_Mesh.h" />
+		<Unit filename="include/types/FE_Object.h" />
+		<Unit filename="include/types/FE_Polygon.h" />
+		<Unit filename="include/types/FE_Scene.h" />
+		<Unit filename="include/types/FE_TCM.h" />
+		<Unit filename="include/types/FE_Texture.h" />
+		<Unit filename="include/types/FE_Vertex.h" />
+		<Unit filename="include/types/FE_VertexGroup.h" />
+		<Unit filename="include/types/FE_World.h" />
+		<Unit filename="include/types/namespaces.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Carbon/CRB_Lexer.cpp" />
+		<Unit filename="src/Carbon/CSL_Interpreter.cpp" />
+		<Unit filename="src/Events/FE_Event.cpp" />
+		<Unit filename="src/Events/FE_EventHandler.cpp" />
+		<Unit filename="src/Events/FE_EventParser.cpp" />
+		<Unit filename="src/Events/FE_InputEventHandler.cpp" />
+		<Unit filename="src/FEngine.cpp" />
+		<Unit filename="src/FError.cpp" />
+		<Unit filename="src/FGamepad.cpp" />
+		<Unit filename="src/FKeyboard.cpp" />
+		<Unit filename="src/FMath.cpp" />
+		<Unit filename="src/FMouse.cpp" />
+		<Unit filename="src/FTask.cpp" />
+		<Unit filename="src/FWorldManager.cpp" />
+		<Unit filename="src/FtaskManager.cpp" />
+		<Unit filename="src/Hydrogen_Engine/Collision_Engine.cpp" />
+		<Unit filename="src/Hydrogen_Engine/Hydrogen_Engine.cpp" />
+		<Unit filename="src/Renderer/FE_GPU_API.cpp" />
+		<Unit filename="src/Renderer/FE_GPU_CommandQueue.cpp" />
+		<Unit filename="src/Renderer/FE_GPU_Info.cpp" />
+		<Unit filename="src/Renderer/FE_GPU_Program.cpp" />
+		<Unit filename="src/Renderer/FE_GPU_Shader.cpp" />
+		<Unit filename="src/Renderer/FE_GPU_Thread.cpp" />
+		<Unit filename="src/Renderer/FE_GPU_Uniform.cpp" />
+		<Unit filename="src/Renderer/FE_GPU_VertexBuffer.cpp" />
+		<Unit filename="src/Renderer/FE_GPU_VertexLayout.cpp" />
+		<Unit filename="src/Renderer/FE_MeshRenderData.cpp" />
+		<Unit filename="src/Renderer/FE_Renderer.cpp" />
+		<Unit filename="src/Renderer/OpenGL3/FE_GL3_API.cpp" />
+		<Unit filename="src/Renderer/OpenGL3/FE_GL3_CommandQueue.cpp" />
+		<Unit filename="src/Renderer/OpenGL3/FE_GL3_Program.cpp" />
+		<Unit filename="src/Renderer/OpenGL3/FE_GL3_Thread.cpp" />
+		<Unit filename="src/Renderer/OpenGL3/FE_GL3_Uniform.cpp" />
+		<Unit filename="src/Renderer/OpenGL3/FE_GL3_VertexBuffer.cpp" />
+		<Unit filename="src/Renderer/OpenGL3/FE_GL3_VertexLayout.cpp" />
+		<Unit filename="src/types/FE_Animation.cpp" />
+		<Unit filename="src/types/FE_Camera.cpp" />
+		<Unit filename="src/types/FE_Interaction.cpp" />
+		<Unit filename="src/types/FE_Light.cpp" />
+		<Unit filename="src/types/FE_Material.cpp" />
+		<Unit filename="src/types/FE_Mesh.cpp" />
+		<Unit filename="src/types/FE_Object.cpp" />
+		<Unit filename="src/types/FE_Polygon.cpp" />
+		<Unit filename="src/types/FE_Scene.cpp" />
+		<Unit filename="src/types/FE_TCM.cpp" />
+		<Unit filename="src/types/FE_Texture.cpp" />
+		<Unit filename="src/types/FE_Vertex.cpp" />
+		<Unit filename="src/types/FE_VertexGroup.cpp" />
+		<Unit filename="src/types/FE_World.cpp" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<lib_finder disable_auto="1" />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

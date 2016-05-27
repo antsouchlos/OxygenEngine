@@ -1,0 +1,35 @@
+#ifndef FE_READER_H
+#define FE_READER_H
+#include "FE_World.h"
+
+
+
+using namespace std;
+
+
+class FE_Reader
+{
+    public:
+        void sortToTypes(vector<FE_World*>&, string str);
+    private:
+        vector<FE_World*> worlds;
+
+        void sortCamera(string str, FE_Scene &scene, int);
+        void sortLight(string str, FE_Scene &scene, int);
+        void sortScene(string str, FE_Scene &scene, int);
+        void sortPhysicsScene(string str, FE_Scene &scene, int);
+        void sortGroups(string str, FE_Scene &scene, int);
+        void sortObjects(string str, FE_Scene &scene, int);
+        void sortVerts(string str, FE_Mesh &object, int);
+        void sortUVMaps(string str, FE_Vertex &vertex, int);
+        void sortAnimations(string str, FE_Mesh &object, int);
+        void sortTextures(string str, FE_Scene &scene, int);
+        void sortMaterials(string str, FE_Scene &scene, int);
+        void sortTCMs(string str, FE_Scene& scene, int);
+        void sortPhysicsObject(string str, FE_Mesh& object, int);
+        void sortVertexGroups(string str, FE_Mesh& object, int);
+        void sortPolygons(string str, FE_Mesh& object, int);
+};
+
+
+#endif // FE_FILEFORMAT_H

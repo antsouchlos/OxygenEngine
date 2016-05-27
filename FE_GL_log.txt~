@@ -1,0 +1,3799 @@
+//////////////////////////
+2015-10-10.21:23:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-10.21:24:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-10.21:24:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-10.21:28:02
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-10.21:28:42
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-10.21:36:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+0:2(1079): error: no matching function for call to `shading(vec3, vec3, vec3, vec3, float)'; candidates are:
+0:2(1079): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1074): error: cannot construct `vec4' from a non-numeric data type
+0:2(1057): error: operands to arithmetic operators must be numeric
+0:2(1286): error: no matching function for call to `toVec3(float, float, float, float)'; candidates are:
+0:2(1286): error:    vec3 toVec3(vec4)
+0:2(1216): error: no matching function for call to `shading(vec3, vec3, vec3, error, float, float)'; candidates are:
+0:2(1216): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1211): error: cannot construct `vec4' from a non-numeric data type
+0:2(1194): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader0:2(1079): error: no matching function for call to `shading(vec3, vec3, vec3, vec3, float)'; candidates are:
+0:2(1079): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1074): error: cannot construct `vec4' from a non-numeric data type
+0:2(1057): error: operands to arithmetic operators must be numeric
+0:2(1286): error: no matching function for call to `toVec3(float, float, float, float)'; candidates are:
+0:2(1286): error:    vec3 toVec3(vec4)
+0:2(1216): error: no matching function for call to `shading(vec3, vec3, vec3, error, float, float)'; candidates are:
+0:2(1216): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1211): error: cannot construct `vec4' from a non-numeric data type
+0:2(1194): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-10.21:37:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+0:2(1079): error: no matching function for call to `shading(vec3, vec3, vec3, vec3, float)'; candidates are:
+0:2(1079): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1074): error: cannot construct `vec4' from a non-numeric data type
+0:2(1057): error: operands to arithmetic operators must be numeric
+0:2(1211): error: too few components to construct `vec4'
+0:2(1194): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader0:2(1079): error: no matching function for call to `shading(vec3, vec3, vec3, vec3, float)'; candidates are:
+0:2(1079): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1074): error: cannot construct `vec4' from a non-numeric data type
+0:2(1057): error: operands to arithmetic operators must be numeric
+0:2(1211): error: too few components to construct `vec4'
+0:2(1194): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-10.21:39:01
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-10.21:40:19
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+0:2(1239): error: `view' undeclared
+0:2(1229): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(1229): error:    mat2 transpose(mat2)
+0:2(1229): error:    mat3 transpose(mat3)
+0:2(1229): error:    mat4 transpose(mat4)
+0:2(1229): error:    mat3x2 transpose(mat2x3)
+0:2(1229): error:    mat4x2 transpose(mat2x4)
+0:2(1229): error:    mat2x3 transpose(mat3x2)
+0:2(1229): error:    mat4x3 transpose(mat3x4)
+0:2(1229): error:    mat2x4 transpose(mat4x2)
+0:2(1229): error:    mat3x4 transpose(mat4x3)
+0:2(1229): error: operands to arithmetic operators must be numeric
+0:2(1278): error: `view' undeclared
+0:2(1268): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(1268): error:    mat2 transpose(mat2)
+0:2(1268): error:    mat3 transpose(mat3)
+0:2(1268): error:    mat4 transpose(mat4)
+0:2(1268): error:    mat3x2 transpose(mat2x3)
+0:2(1268): error:    mat4x2 transpose(mat2x4)
+0:2(1268): error:    mat2x3 transpose(mat3x2)
+0:2(1268): error:    mat4x3 transpose(mat3x4)
+0:2(1268): error:    mat2x4 transpose(mat4x2)
+0:2(1268): error:    mat3x4 transpose(mat4x3)
+0:2(1268): error: operands to arithmetic operators must be numeric
+0:2(1221): error: no matching function for call to `shading(error, error, vec3, vec3, float, float)'; candidates are:
+0:2(1221): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1216): error: cannot construct `vec4' from a non-numeric data type
+0:2(1199): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader0:2(1239): error: `view' undeclared
+0:2(1229): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(1229): error:    mat2 transpose(mat2)
+0:2(1229): error:    mat3 transpose(mat3)
+0:2(1229): error:    mat4 transpose(mat4)
+0:2(1229): error:    mat3x2 transpose(mat2x3)
+0:2(1229): error:    mat4x2 transpose(mat2x4)
+0:2(1229): error:    mat2x3 transpose(mat3x2)
+0:2(1229): error:    mat4x3 transpose(mat3x4)
+0:2(1229): error:    mat2x4 transpose(mat4x2)
+0:2(1229): error:    mat3x4 transpose(mat4x3)
+0:2(1229): error: operands to arithmetic operators must be numeric
+0:2(1278): error: `view' undeclared
+0:2(1268): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(1268): error:    mat2 transpose(mat2)
+0:2(1268): error:    mat3 transpose(mat3)
+0:2(1268): error:    mat4 transpose(mat4)
+0:2(1268): error:    mat3x2 transpose(mat2x3)
+0:2(1268): error:    mat4x2 transpose(mat2x4)
+0:2(1268): error:    mat2x3 transpose(mat3x2)
+0:2(1268): error:    mat4x3 transpose(mat3x4)
+0:2(1268): error:    mat2x4 transpose(mat4x2)
+0:2(1268): error:    mat3x4 transpose(mat4x3)
+0:2(1268): error: operands to arithmetic operators must be numeric
+0:2(1221): error: no matching function for call to `shading(error, error, vec3, vec3, float, float)'; candidates are:
+0:2(1221): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1216): error: cannot construct `vec4' from a non-numeric data type
+0:2(1199): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-10.21:41:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+0:2(1246): error: `view' undeclared
+0:2(1236): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(1236): error:    mat2 transpose(mat2)
+0:2(1236): error:    mat3 transpose(mat3)
+0:2(1236): error:    mat4 transpose(mat4)
+0:2(1236): error:    mat3x2 transpose(mat2x3)
+0:2(1236): error:    mat4x2 transpose(mat2x4)
+0:2(1236): error:    mat2x3 transpose(mat3x2)
+0:2(1236): error:    mat4x3 transpose(mat3x4)
+0:2(1236): error:    mat2x4 transpose(mat4x2)
+0:2(1236): error:    mat3x4 transpose(mat4x3)
+0:2(1236): error: operands to arithmetic operators must be numeric
+0:2(1229): error: no matching function for call to `toVec3(error)'; candidates are:
+0:2(1229): error:    vec3 toVec3(vec4)
+0:2(1298): error: `view' undeclared
+0:2(1288): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(1288): error:    mat2 transpose(mat2)
+0:2(1288): error:    mat3 transpose(mat3)
+0:2(1288): error:    mat4 transpose(mat4)
+0:2(1288): error:    mat3x2 transpose(mat2x3)
+0:2(1288): error:    mat4x2 transpose(mat2x4)
+0:2(1288): error:    mat2x3 transpose(mat3x2)
+0:2(1288): error:    mat4x3 transpose(mat3x4)
+0:2(1288): error:    mat2x4 transpose(mat4x2)
+0:2(1288): error:    mat3x4 transpose(mat4x3)
+0:2(1288): error: operands to arithmetic operators must be numeric
+0:2(1281): error: no matching function for call to `toVec3(error)'; candidates are:
+0:2(1281): error:    vec3 toVec3(vec4)
+0:2(1221): error: no matching function for call to `shading(error, error, vec3, vec3, float, float)'; candidates are:
+0:2(1221): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1216): error: cannot construct `vec4' from a non-numeric data type
+0:2(1199): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader0:2(1246): error: `view' undeclared
+0:2(1236): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(1236): error:    mat2 transpose(mat2)
+0:2(1236): error:    mat3 transpose(mat3)
+0:2(1236): error:    mat4 transpose(mat4)
+0:2(1236): error:    mat3x2 transpose(mat2x3)
+0:2(1236): error:    mat4x2 transpose(mat2x4)
+0:2(1236): error:    mat2x3 transpose(mat3x2)
+0:2(1236): error:    mat4x3 transpose(mat3x4)
+0:2(1236): error:    mat2x4 transpose(mat4x2)
+0:2(1236): error:    mat3x4 transpose(mat4x3)
+0:2(1236): error: operands to arithmetic operators must be numeric
+0:2(1229): error: no matching function for call to `toVec3(error)'; candidates are:
+0:2(1229): error:    vec3 toVec3(vec4)
+0:2(1298): error: `view' undeclared
+0:2(1288): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(1288): error:    mat2 transpose(mat2)
+0:2(1288): error:    mat3 transpose(mat3)
+0:2(1288): error:    mat4 transpose(mat4)
+0:2(1288): error:    mat3x2 transpose(mat2x3)
+0:2(1288): error:    mat4x2 transpose(mat2x4)
+0:2(1288): error:    mat2x3 transpose(mat3x2)
+0:2(1288): error:    mat4x3 transpose(mat3x4)
+0:2(1288): error:    mat2x4 transpose(mat4x2)
+0:2(1288): error:    mat3x4 transpose(mat4x3)
+0:2(1288): error: operands to arithmetic operators must be numeric
+0:2(1281): error: no matching function for call to `toVec3(error)'; candidates are:
+0:2(1281): error:    vec3 toVec3(vec4)
+0:2(1221): error: no matching function for call to `shading(error, error, vec3, vec3, float, float)'; candidates are:
+0:2(1221): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1216): error: cannot construct `vec4' from a non-numeric data type
+0:2(1199): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-10.21:41:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-10.21:46:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-10.21:47:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:38:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:38:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:39:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:39:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:39:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-10-11.00:40:01
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-10-11.00:40:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:40:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:41:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:41:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:41:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:42:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:42:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:43:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:43:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:43:45
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-10-11.00:43:48
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:43:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:44:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:44:39
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:45:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:45:29
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-10-11.00:45:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:46:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:46:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:46:41
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:46:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:47:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:47:15
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:47:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:48:47
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-10-11.00:48:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:49:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:49:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:49:26
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:49:30
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:49:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:51:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:51:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+0:2(882): error: syntax error, unexpected ELSE
+error: linking with uncompiled shader0:2(882): error: syntax error, unexpected ELSE
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-11.00:51:53
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:52:19
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:52:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:53:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:55:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:56:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:57:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:58:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:58:39
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:59:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:59:21
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.00:59:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:00:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:00:47
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:00:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:00:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:01:21
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:01:53
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:04:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:04:21
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:04:25
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:04:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:05:15
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:05:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:05:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:05:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:07:40
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-11.01:08:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+
+//////////////////////////
+2015-10-17.21:13:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:13:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:15:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:15:30
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:15:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:17:29
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:18:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:18:42
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:19:56
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:22:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+0:2(822): error: no matching function for call to `dot(vec3)'; candidates are:
+0:2(822): error:    float dot(vec3, vec3)
+0:2(822): error:    float dot(float, float)
+0:2(822): error:    float dot(vec2, vec2)
+0:2(822): error:    float dot(vec3, vec3)
+0:2(822): error:    float dot(vec4, vec4)
+error: linking with uncompiled shader0:2(822): error: no matching function for call to `dot(vec3)'; candidates are:
+0:2(822): error:    float dot(vec3, vec3)
+0:2(822): error:    float dot(float, float)
+0:2(822): error:    float dot(vec2, vec2)
+0:2(822): error:    float dot(vec3, vec3)
+0:2(822): error:    float dot(vec4, vec4)
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-17.21:22:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:23:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+0:2(806): error: initializer of type vec3 cannot be assigned to variable of type float
+error: linking with uncompiled shader0:2(806): error: initializer of type vec3 cannot be assigned to variable of type float
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-17.21:23:45
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:25:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:26:09
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:31:21
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:31:43
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:33:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:33:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.21:34:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+error: vertex shader output `pos' specifies smooth interpolation qualifier, but fragment shader input specifies no interpolation qualifier
+error: vertex shader output `normals' specifies smooth interpolation qualifier, but fragment shader input specifies no interpolation qualifier
+error: vertex shader output `uvs' specifies smooth interpolation qualifier, but fragment shader input specifies no interpolation qualifier
+error: vertex shader output `pos' specifies smooth interpolation qualifier, but fragment shader input specifies no interpolation qualifier
+error: vertex shader output `normals' specifies smooth interpolation qualifier, but fragment shader input specifies no interpolation qualifier
+error: vertex shader output `uvs' specifies smooth interpolation qualifier, but fragment shader input specifies no interpolation qualifier
+
+
+//////////////////////////
+2015-10-17.21:34:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-10-17.21:34:44
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:06:15
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:06:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:06:57
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:07:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:08:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:10:03
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:10:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:10:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:10:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:10:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:11:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:12:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+0:2(716): error: initializer of type float cannot be assigned to variable of type vec3
+error: linking with uncompiled shader0:2(716): error: initializer of type float cannot be assigned to variable of type vec3
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-17.22:12:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:12:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:13:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:14:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-10-17.22:14:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:15:20
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:17:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-10-17.22:17:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:17:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:18:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:19:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:19:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:19:57
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:20:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:20:52
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:21:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:22:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:22:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:23:23
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:23:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+0:2(406): error: `fe_pos' undeclared
+0:2(401): error: cannot construct `vec4' from a non-numeric data type
+0:2(361): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader0:2(406): error: `fe_pos' undeclared
+0:2(401): error: cannot construct `vec4' from a non-numeric data type
+0:2(361): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-17.22:24:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:24:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:25:02
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:25:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:25:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-10-17.22:25:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:26:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+0:2(1042): error: size mismatch for matrix multiplication
+0:2(1034): error: no matching function for call to `shading(error, vec3, vec3, vec3, float, float)'; candidates are:
+0:2(1034): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1029): error: cannot construct `vec4' from a non-numeric data type
+0:2(1012): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader0:2(1042): error: size mismatch for matrix multiplication
+0:2(1034): error: no matching function for call to `shading(error, vec3, vec3, vec3, float, float)'; candidates are:
+0:2(1034): error:    vec3 shading(vec3, vec3, vec3, vec3, float, float)
+0:2(1029): error: cannot construct `vec4' from a non-numeric data type
+0:2(1012): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-17.22:27:01
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:27:20
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:27:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:28:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:28:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:30:26
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:30:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:32:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+0:2(418): error: `model' undeclared
+0:2(413): error: operands to arithmetic operators must be numeric
+0:2(413): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader0:2(418): error: `model' undeclared
+0:2(413): error: operands to arithmetic operators must be numeric
+0:2(413): error: operands to arithmetic operators must be numeric
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-17.22:32:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:32:56
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:33:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:33:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:34:40
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:35:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.22:35:48
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.23:19:03
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.23:20:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-17.23:20:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:42:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:43:13
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:44:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-10-18.01:44:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:45:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:46:19
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:47:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:47:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:48:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:51:43
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:52:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:52:57
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:53:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:55:39
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:58:30
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:58:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-10-18.01:58:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.01:59:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:04:19
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:09:48
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:09:52
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:10:26
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:11:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:11:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:11:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:11:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:12:13
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:12:45
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:12:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:13:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:13:47
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:14:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:14:56
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.02:15:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-18.21:01:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-24.22:05:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-24.22:22:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+0:2(1229): error: `s' undeclared
+0:2(1227): error: operands to arithmetic operators must be numeric
+0:2(1217): error: no matching function for call to `normalize(error)'; candidates are:
+0:2(1217): error:    vec3 normalize(vec3)
+0:2(1217): error:    float normalize(float)
+0:2(1217): error:    vec2 normalize(vec2)
+0:2(1217): error:    vec3 normalize(vec3)
+0:2(1217): error:    vec4 normalize(vec4)
+0:2(1213): error: no matching function for call to `dot(error, vec3)'; candidates are:
+0:2(1213): error:    float dot(vec3, vec3)
+0:2(1213): error:    float dot(float, float)
+0:2(1213): error:    float dot(vec2, vec2)
+0:2(1213): error:    float dot(vec3, vec3)
+0:2(1213): error:    float dot(vec4, vec4)
+0:2(1209): error: no matching function for call to `max(error, float)'; candidates are:
+0:2(1209): error:    float max(float, float)
+0:2(1209): error:    float max(float, float)
+0:2(1209): error:    vec2 max(vec2, float)
+0:2(1209): error:    vec3 max(vec3, float)
+0:2(1209): error:    vec4 max(vec4, float)
+0:2(1209): error:    vec2 max(vec2, vec2)
+0:2(1209): error:    vec3 max(vec3, vec3)
+0:2(1209): error:    vec4 max(vec4, vec4)
+0:2(1209): error:    int max(int, int)
+0:2(1209): error:    ivec2 max(ivec2, int)
+0:2(1209): error:    ivec3 max(ivec3, int)
+0:2(1209): error:    ivec4 max(ivec4, int)
+0:2(1209): error:    ivec2 max(ivec2, ivec2)
+0:2(1209): error:    ivec3 max(ivec3, ivec3)
+0:2(1209): error:    ivec4 max(ivec4, ivec4)
+0:2(1209): error:    uint max(uint, uint)
+0:2(1209): error:    uvec2 max(uvec2, uint)
+0:2(1209): error:    uvec3 max(uvec3, uint)
+0:2(1209): error:    uvec4 max(uvec4, uint)
+0:2(1209): error:    uvec2 max(uvec2, uvec2)
+0:2(1209): error:    uvec3 max(uvec3, uvec3)
+0:2(1209): error:    uvec4 max(uvec4, uvec4)
+0:2(1205): error: no matching function for call to `pow(error, float)'; candidates are:
+0:2(1205): error:    float pow(float, float)
+0:2(1205): error:    float pow(float, float)
+0:2(1205): error:    vec2 pow(vec2, vec2)
+0:2(1205): error:    vec3 pow(vec3, vec3)
+0:2(1205): error:    vec4 pow(vec4, verror: linking with uncompiled shader0:2(1229): error: `s' undeclared
+0:2(1227): error: operands to arithmetic operators must be numeric
+0:2(1217): error: no matching function for call to `normalize(error)'; candidates are:
+0:2(1217): error:    vec3 normalize(vec3)
+0:2(1217): error:    float normalize(float)
+0:2(1217): error:    vec2 normalize(vec2)
+0:2(1217): error:    vec3 normalize(vec3)
+0:2(1217): error:    vec4 normalize(vec4)
+0:2(1213): error: no matching function for call to `dot(error, vec3)'; candidates are:
+0:2(1213): error:    float dot(vec3, vec3)
+0:2(1213): error:    float dot(float, float)
+0:2(1213): error:    float dot(vec2, vec2)
+0:2(1213): error:    float dot(vec3, vec3)
+0:2(1213): error:    float dot(vec4, vec4)
+0:2(1209): error: no matching function for call to `max(error, float)'; candidates are:
+0:2(1209): error:    float max(float, float)
+0:2(1209): error:    float max(float, float)
+0:2(1209): error:    vec2 max(vec2, float)
+0:2(1209): error:    vec3 max(vec3, float)
+0:2(1209): error:    vec4 max(vec4, float)
+0:2(1209): error:    vec2 max(vec2, vec2)
+0:2(1209): error:    vec3 max(vec3, vec3)
+0:2(1209): error:    vec4 max(vec4, vec4)
+0:2(1209): error:    int max(int, int)
+0:2(1209): error:    ivec2 max(ivec2, int)
+0:2(1209): error:    ivec3 max(ivec3, int)
+0:2(1209): error:    ivec4 max(ivec4, int)
+0:2(1209): error:    ivec2 max(ivec2, ivec2)
+0:2(1209): error:    ivec3 max(ivec3, ivec3)
+0:2(1209): error:    ivec4 max(ivec4, ivec4)
+0:2(1209): error:    uint max(uint, uint)
+0:2(1209): error:    uvec2 max(uvec2, uint)
+0:2(1209): error:    uvec3 max(uvec3, uint)
+0:2(1209): error:    uvec4 max(uvec4, uint)
+0:2(1209): error:    uvec2 max(uvec2, uvec2)
+0:2(1209): error:    uvec3 max(uvec3, uvec3)
+0:2(1209): error:    uvec4 max(uvec4, uvec4)
+0:2(1205): error: no matching function for call to `pow(error, float)'; candidates are:
+0:2(1205): error:    float pow(float, float)
+0:2(1205): error:    float pow(float, float)
+0:2(1205): error:    vec2 pow(vec2, vec2)
+0:2(1205): error:    vec3 pow(vec3, vec3)
+0:2(1205): error:    vec4 pow(vec4, verror: linking with uncompiled shader
+
+//////////////////////////
+2015-10-24.22:23:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-24.22:24:03
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-24.22:24:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-24.22:24:39
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-29.19:51:29
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-29.19:52:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-29.19:52:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-29.19:52:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-29.19:52:44
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-29.19:53:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-10-29.19:53:17
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-10-29.19:53:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+0:2(1305): error: `diffuse_specular' undeclared
+0:2(1298): error: `return' with wrong type error, in function `shading' returning vec3
+error: linking with uncompiled shader0:2(1305): error: `diffuse_specular' undeclared
+0:2(1298): error: `return' with wrong type error, in function `shading' returning vec3
+error: linking with uncompiled shader
+
+//////////////////////////
+2015-10-29.19:53:39
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-29.19:54:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-29.19:54:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-29.19:55:09
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-11-07.01:13:25
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-11-07.01:13:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-11-07.01:18:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-11-08.21:22:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-12-03.23:29:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-12-04.13:02:43
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+FE_ObjectFE_SceneDataFE_ObjectFE_SceneData
+
+//////////////////////////
+2015-12-04.13:08:17
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+FE_ObjectFE_SceneDataFE_ObjectFE_SceneData
+
+//////////////////////////
+2015-12-04.14:08:54
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+FE_ObjectFE_SceneDataFE_ObjectFE_SceneData
+
+//////////////////////////
+2015-12-04.23:00:41
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-12-06.11:46:44
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+FE_ObjectFE_SceneDataFE_ObjectFE_SceneData
+
+//////////////////////////
+2015-12-21.14:10:58
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2015-12-22.13:52:09
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-12-22.13:53:48
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: File Not Found - tets_interpreter.fle
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2015-12-22.13:54:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: File Not Found - test_interpreter.fle
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2015-12-22.13:55:30
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-12-22.13:55:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-12-22.13:55:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-12-22.13:59:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-12-22.14:09:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-12-22.14:09:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-12-22.14:17:19
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2015-12-22.14:21:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2015-12-22.20:20:41
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2015-12-22.20:24:55
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2015-12-22.20:30:49
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2015-12-22.20:31:30
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2015-12-22.20:31:57
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2015-12-22.20:32:11
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2015-12-22.20:32:30
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2015-12-22.20:33:25
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2015-12-22.20:34:38
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2015-12-22.20:37:29
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2015-12-22.20:41:57
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2015-12-22.20:45:49
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2015-12-22.20:46:11
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2015-12-22.20:46:30
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2015-12-22.20:46:51
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2015-12-23.18:48:28
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-02.20:48:13
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-02.20:48:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-02.20:50:20
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2016-01-02.20:51:52
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-01-03.19:23:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-01-09.20:49:48
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-01-15.22:11:10
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2016-01-15.22:11:31
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2016-01-15.22:46:48
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2016-01-15.22:55:08
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2016-01-15.22:57:06
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2016-01-15.23:13:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-01-15.23:22:49
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2016-01-16.11:54:15
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-01-16.13:05:11
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2016-01-16.13:09:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-01-16.13:12:01
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2016-01-16.16:52:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-01-20.20:15:09
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+
+//////////////////////////
+2016-01-20.20:15:42
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-20.20:16:06
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-20.20:16:20
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2016-01-20.20:23:20
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2016-01-22.18:18:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2016-01-22.18:57:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-22.18:57:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-22.18:59:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-22.19:00:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-22.19:01:15
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-22.19:01:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-22.19:02:09
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-22.19:12:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.13:47:00
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.13:54:21
+API: OpenGL 3.2.0 NVIDIA 352.30
+FE_MaterialFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.13:54:59
+API: OpenGL 3.2.0 NVIDIA 352.30
+FE_MaterialFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.13:55:27
+API: OpenGL 3.2.0 NVIDIA 352.30
+FE_MaterialFE_ObjectFE_SceneDataFE_MaterialFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.13:55:59
+API: OpenGL 3.2.0 NVIDIA 352.30
+FE_MaterialFE_ObjectFE_SceneDataFE_MaterialFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.15:16:10
+API: OpenGL 3.2.0 NVIDIA 352.30
+
+
+//////////////////////////
+2016-01-23.15:16:13
+API: OpenGL 3.2.0 NVIDIA 352.30
+FE_MaterialFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.15:16:16
+API: OpenGL 3.2.0 NVIDIA 352.30
+FE_MaterialFE_ObjectFE_SceneDataFE_MaterialFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.15:16:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.15:16:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.15:21:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.15:22:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.15:22:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.15:23:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.15:24:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.15:24:50
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+FE_ObjectFE_SceneDataFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.15:39:25
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-23.15:40:10
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-23.15:41:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-23.15:45:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-23.15:50:21
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-23.16:01:14
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-23.16:02:23
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-23.16:03:23
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-23.16:05:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-23.16:08:00
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.16:09:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.16:18:50
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+worlds: 1
+
+//////////////////////////
+2016-01-23.16:20:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.16:23:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.16:25:13
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+worlds: 1FE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.16:26:19
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+worlds: 1FE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.16:30:29
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.16:38:21
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+worlds: 1FE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.16:43:55
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+worlds: 1FE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneDataFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-23.16:45:26
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+FE ERROR: No active world loaded - omgftw
+ Task: a
+ Thread: NEWTHREAD
+
+//////////////////////////
+2016-01-23.16:45:57
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-01-23.16:46:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-01-23.16:46:44
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1worlds: 1
+
+//////////////////////////
+2016-01-23.17:30:21
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+worlds: 1
+
+//////////////////////////
+2016-01-23.18:06:47
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+worlds: 1
+
+//////////////////////////
+2016-01-23.18:41:31
+API: OpenGL 3.2.13399 Core Profile Forward-Compatible Context 15.201.1151
+worlds: 1
+
+//////////////////////////
+2016-01-23.18:54:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.19:02:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-23.23:14:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.15:42:23
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.15:42:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-01-24.15:42:43
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.15:42:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.15:42:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.15:43:01
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.15:43:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.15:44:03
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.15:44:30
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-01-24.15:45:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.15:47:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.18:17:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.18:18:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.18:41:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-24.18:41:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-01-26.17:36:29
+API: OpenGL 3.2.0 NVIDIA 352.30
+worlds: 1FE_MaterialFE_ObjectFE_SceneDataFE_MaterialFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-26.17:36:45
+API: OpenGL 3.2.0 NVIDIA 352.30
+worlds: 1FE_MaterialFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-26.17:36:47
+API: OpenGL 3.2.0 NVIDIA 352.30
+worlds: 1FE_MaterialFE_ObjectFE_SceneDataFE_MaterialFE_ObjectFE_SceneData
+
+//////////////////////////
+2016-01-30.12:51:42
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:12:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:12:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:13:39
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:14:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:16:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:16:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:16:17
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:16:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:16:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:19:09
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:21:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.21:21:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:22:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:22:23
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:22:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:22:45
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.21:23:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:23:30
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:24:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:24:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:25:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.21:25:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:25:17
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:25:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:26:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:26:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:27:01
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.21:27:02
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:27:25
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:27:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:28:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:29:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:30:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:32:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:32:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:32:44
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:32:56
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:33:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:33:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:33:45
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:34:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:34:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.21:35:57
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:36:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:36:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.21:36:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:20:03
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:20:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:22:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:22:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:22:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:22:26
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:23:52
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.22:24:02
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:24:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:24:47
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:25:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:25:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.22:26:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:26:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:27:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:28:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:28:52
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:29:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.22:29:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.22:29:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.22:29:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.22:29:23
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.22:29:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.22:30:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.22:30:17
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-06.22:30:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:30:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:31:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:35:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:39:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:41:47
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-06.22:42:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:43:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:43:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:44:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:47:42
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Materialdafuq?dafuq?dafuq?dafuq?dafuq?dafuq?
+
+//////////////////////////
+2016-02-06.22:50:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:50:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:51:57
+API: OpenGL 3.2.0 NVIDIA 352.30
+worlds: 1FE_MaterialFE_ObjectFE_SceneDataFE_MaterialFE_ObjectFE_SceneDatadafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?
+
+//////////////////////////
+2016-02-06.22:54:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.22:56:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.23:00:53
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.23:01:53
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.23:02:19
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.23:02:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.23:02:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.23:03:02
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.23:03:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-06.23:05:20
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.01:33:01
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.01:33:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Materialdafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?
+
+//////////////////////////
+2016-02-07.01:48:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Materialdafuq?
+
+//////////////////////////
+2016-02-07.01:50:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.01:50:26
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Materialdafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?
+
+//////////////////////////
+2016-02-07.01:54:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Materialdafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?dafuq?
+
+//////////////////////////
+2016-02-07.01:54:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.01:55:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.15:11:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.20:18:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.21:27:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.21:28:40
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.21:29:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.22:27:43
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-07.23:13:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-08.21:14:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-08.21:22:20
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-08.21:32:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-08.21:33:42
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-08.21:33:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-08.21:33:53
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-14.01:14:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-20.16:12:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-22.21:28:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-22.21:29:00
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-22.21:29:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-22.21:30:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-22.21:30:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-22.21:45:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-22.21:58:47
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-26.19:45:00
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-26.19:45:56
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-26.19:46:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE: GPU: WARNING: Uniform Buffer - '_FE_global_data' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - '_FE_global_data' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE: GPU: WARNING: Uniform Buffer - '_FE_global_data' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - '_FE_global_data' does not exist
+................. Not destroying uninitialized Uniform buffer
+
+
+//////////////////////////
+2016-02-26.19:51:13
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-26.20:25:17
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-02-26.20:27:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-27.14:49:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-27.14:50:13
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-27.14:50:29
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-27.14:50:43
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-27.14:51:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-27.16:24:45
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-27.16:31:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-04.23:38:40
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-04.23:38:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.16:45:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:22:25
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:22:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:24:41
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:26:19
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:27:09
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:27:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:33:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:34:42
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:36:00
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:38:02
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:38:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:38:47
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:39:52
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:41:26
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:42:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:42:56
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:43:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:44:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.19:45:20
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:45:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:45:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:46:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:48:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:48:21
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:48:26
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:49:15
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:49:25
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:49:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:49:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:54:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:54:40
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:56:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.19:59:10
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.20:00:18
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-03-05.20:00:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-03-05.20:01:09
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.20:02:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.20:04:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-03-05.20:04:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-05.20:04:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.20:06:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Materialdafuq?
+
+//////////////////////////
+2016-03-05.20:08:17
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.20:09:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.20:12:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.20:13:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-03-05.20:16:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-03-05.20:20:47
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.21:12:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.21:46:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.21:47:25
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.21:47:41
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.21:47:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.22:58:57
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-05.22:59:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.00:52:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-03-06.00:52:48
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.00:54:53
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.00:56:39
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.00:59:15
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:00:48
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:02:03
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:03:53
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:04:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:05:00
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:06:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:07:53
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:13:40
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:14:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:20:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:21:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:22:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:22:20
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:23:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:24:21
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:24:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:24:52
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:25:03
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:25:40
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.01:25:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:26:09
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:26:19
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:27:39
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:28:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:29:13
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:29:26
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:29:41
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:31:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:31:21
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:32:30
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.01:32:40
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:33:17
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:35:17
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:35:53
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:36:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:37:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:37:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:37:48
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:38:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:38:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:39:21
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:41:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:44:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:44:43
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:45:09
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:45:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:47:25
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:48:13
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:48:39
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:50:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:51:13
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:51:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:52:21
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:53:19
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:54:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:54:25
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:55:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:57:20
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:57:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:58:02
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:58:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.01:59:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:00:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:01:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:02:00
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:02:25
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:02:33
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:02:41
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:03:09
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:03:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:12:24
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:13:17
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:13:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:14:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:14:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:14:45
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:14:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:18:01
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:18:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:19:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:19:56
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:20:26
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:20:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:20:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:20:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.02:21:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:22:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:23:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.02:24:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:24:54
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.02:25:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:26:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:27:20
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:27:36
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:27:47
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:29:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:29:44
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.02:30:08
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:39:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.18:39:48
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:44:47
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:46:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:48:01
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:50:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:50:39
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:50:51
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:51:02
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:52:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.18:52:21
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:52:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:52:50
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:53:03
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:53:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:54:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:54:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:54:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:54:30
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:54:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:54:48
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:54:58
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:55:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.18:58:23
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.18:58:35
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.19:01:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.19:01:20
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+
+
+//////////////////////////
+2016-03-06.19:03:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-03-06.19:03:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9

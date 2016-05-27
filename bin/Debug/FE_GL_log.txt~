@@ -1,0 +1,947 @@
+written buffer
+
+//////////////////////////
+2015-06-22.19:23:12
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-22.20:26:34
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.18:12:42
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.19:33:22
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.19:35:03
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.19:36:00
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.19:37:47
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.19:40:26
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.11:49:56
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:26:17
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:27:35
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:27:48
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:28:45
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:31:45
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:33:22
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:33:33
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:34:33
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:36:21
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:37:46
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:38:36
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:41:37
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:41:49
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:42:21
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:42:28
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:46:22
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:49:21
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:49:28
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:13:44
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:15:26
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:17:08
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:27:37
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:29:35
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:29:45
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:35:49
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:36:00
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:36:08
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:36:20
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:36:31
+API : OpenGL 3.2 
+ Initiated Successfully
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2015-08-07.20:14:03
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:17:03
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:20:18
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:21:26
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:21:43
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:22:44
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:23:17
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:24:50
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:26:39
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:36:44
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:38:01
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-09.23:24:39
+API : OpenGL 3.2 
+ Initiated SuccessfullyFE WARNING: No Uniform Buffer found - general_data
+          Not executing "setUniform" 
+
+//////////////////////////
+2015-08-10.14:37:54
+API : OpenGL 3.2 
+ Initiated SuccessfullyFE WARNING: No Uniform Buffer found - general_data
+          Not executing "setUniform" 
+
+//////////////////////////
+2015-08-10.14:45:40
+API : OpenGL 3.2 
+ Initiated SuccessfullyFE WARNING: No Uniform Buffer found - general_data
+          Not executing "setUniform" FE WARNING: No Shader Program found - asd
+          Not executing "setProgramVS" FE WARNING: No Shader Program found - asd
+          Not executing "setProgramFS" FE WARNING: No Shader Program found - asd
+          Not executing "setupProgram" FE WARNING: No Shader Program found - asd
+          Not executing "setProgramUniformSlot" FE WARNING: No Shader Program found - asd
+          Not executing "setProgramUniformSlot" FE WARNING: No Shader Program found - asd
+          Not executing "setProgramUniformSlot" FE WARNING: No Shader Program found - omgftw
+          Not executing "setProgramVS" FE WARNING: No Shader Program found - omgftw
+          Not executing "setProgramFS" FE WARNING: No Shader Program found - omgftw
+          Not executing "setupProgram" FE WARNING: No Shader Program found - omgftw
+          Not executing "setProgramUniformSlot" FE WARNING: No Shader Program found - omgftw
+          Not executing "setProgramUniformSlot" FE WARNING: No Shader Program found - omgftw
+          Not executing "setProgramUniformSlot" FE WARNING: No Uniform Buffer found - asd_model_matrices
+          Not executing "setUniform" FE WARNING: No Drawable Vertex Layout found - asd
+          Not executing "drawInstances" FE WARNING: No Drawable Vertex Layout found - omgftw
+          Not executing "drawInstances" FE WARNING: No Uniform Buffer found - asd_model_matrices
+          Not executing "setUniform" 
+
+//////////////////////////
+2015-08-10.14:46:02
+API : OpenGL 3.2 
+ Initiated SuccessfullyFE WARNING: No Uniform Buffer found - general_data
+          Not executing "setUniform" 
+
+//////////////////////////
+2015-08-14.20:14:41
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-14.20:21:11
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-14.20:24:25
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-14.20:25:34
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-14.20:28:19
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-15.13:55:47
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-15.14:13:53
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-15.14:27:30
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-15.14:28:47
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-15.14:29:14
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-15.14:30:01
+API : OpenGL 3.2 
+ Initiated Successfully
+
+
+//////////////////////////
+2015-08-23.13:57:03
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:12:30
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:20:32
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:20:45
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:27:21
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:47:24
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:47:30
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:47:32
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:47:35
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:47:41
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:47:46
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.14:49:28
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.19:26:52
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.19:27:21
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-23.19:56:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+error: function `main' is multiply defined
+
+
+//////////////////////////
+2015-08-23.21:08:49
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+error: function `main' is multiply defined
+
+
+//////////////////////////
+2015-08-23.21:08:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+error: function `main' is multiply defined
+
+
+//////////////////////////
+2015-08-23.21:10:48
+API: OpenGL 3.2.0 NVIDIA 352.30
+Vertex info
+-----------
+0(2) : error C1013: function "main" is already defined at 0(2)
+
+
+//////////////////////////
+2015-08-23.21:12:56
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-08-23.21:26:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-08-23.21:33:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneData
+
+//////////////////////////
+2015-08-23.21:37:11
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneData
+
+//////////////////////////
+2015-08-23.21:37:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneData
+
+//////////////////////////
+2015-08-23.21:50:52
+API: OpenGL 3.2.0 NVIDIA 352.30
+FE_ObjectOffsetsFE_ObjectsFE_SceneDataFE_ObjectOffsetsFE_ObjectsFE_SceneDataFE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting memory of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting memory of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not setting data of uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'asd_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: Uniform Buffer - 'omgftw_offsets' does not exist
+................. Not destroying uninitialized Uniform buffer
+
+
+//////////////////////////
+2015-08-23.21:50:56
+API: OpenGL 3.2.0 NVIDIA 352.30
+
+
+//////////////////////////
+2015-08-23.21:51:45
+API: OpenGL 3.2.0 NVIDIA 352.30
+FE_SceneData
+
+//////////////////////////
+2015-08-29.01:11:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneData
+
+2015-09-02.22:59:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-09-02.22:59:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-09-02.23:01:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-09-02.23:02:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-09-03.13:04:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+0:2(208): error: `model' undeclared
+0:2(198): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(198): error:    mat4 transpose(mat4)
+0:2(198): error:    mat2 transpose(mat2)
+0:2(198): error:    mat3 transpose(mat3)
+0:2(198): error:    mat4 transpose(mat4)
+0:2(198): error:    mat3x2 transpose(mat2x3)
+0:2(198): error:    mat4x2 transpose(mat2x4)
+0:2(198): error:    mat2x3 transpose(mat3x2)
+0:2(198): error:    mat4x3 transpose(mat3x4)
+0:2(198): error:    mat2x4 transpose(mat4x2)
+0:2(198): error:    mat3x4 transpose(mat4x3)
+0:2(182): error: operands to arithmetic operators must be numeric
+0:2(182): error: operands to arithmetic operators must be numeric
+0:2(315): error: `model' undeclared
+0:2(305): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(305): error:    mat4 transpose(mat4)
+0:2(305): error:    mat2 transpose(mat2)
+0:2(305): error:    mat3 transpose(mat3)
+0:2(305): error:    mat4 transpose(mat4)
+0:2(305): error:    mat3x2 transpose(mat2x3)
+0:2(305): error:    mat4x2 transpose(mat2x4)
+0:2(305): error:    mat2x3 transpose(mat3x2)
+0:2(305): error:    mat4x3 transpose(mat3x4)
+0:2(305): error:    mat2x4 transpose(mat4x2)
+0:2(305): error:    mat3x4 transpose(mat4x3)
+0:2(277): error: operands to arithmetic operators must be numeric
+0:2(277): error: operands to arithmetic operators must be numeric
+0:2(97): error: embedded structure declarations are not allowed
+error: linking with uncompiled shadererror: linking with uncompiled shaderFE: GPU: WARNING: Vertex Buffer - 'Cube.001' does not exist
+................. Not adding a non-existent vertex buffer to vertex layout - '_FE_Cube.001_FE_asd_FE_'
+0:2(208): error: `model' undeclared
+0:2(198): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(198): error:    mat4 transpose(mat4)
+0:2(198): error:    mat2 transpose(mat2)
+0:2(198): error:    mat3 transpose(mat3)
+0:2(198): error:    mat4 transpose(mat4)
+0:2(198): error:    mat3x2 transpose(mat2x3)
+0:2(198): error:    mat4x2 transpose(mat2x4)
+0:2(198): error:    mat2x3 transpose(mat3x2)
+0:2(198): error:    mat4x3 transpose(mat3x4)
+0:2(198): error:    mat2x4 transpose(mat4x2)
+0:2(198): error:    mat3x4 transpose(mat4x3)
+0:2(182): error: operands to arithmetic operators must be numeric
+0:2(182): error: operands to arithmetic operators must be numeric
+0:2(315): error: `model' undeclared
+0:2(305): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(305): error:    mat4 transpose(mat4)
+0:2(305): error:    mat2 transpose(mat2)
+0:2(305): error:    mat3 transpose(mat3)
+0:2(305): error:    mat4 transpose(mat4)
+0:2(305): error:    mat3x2 transpose(mat2x3)
+0:2(305): error:    mat4x2 transpose(mat2x4)
+0:2(305): error:    mat2x3 transpose(mat3x2)
+0:2(305): error:    mat4x3 transpose(mat3x4)
+0:2(305): error:    mat2x4 transpose(mat4x2)
+0:2(305): error:    mat3x4 transpose(mat4x3)
+0:2(277): error: operands to arithmetic operators must be numeric
+0:2(277): error: operands to arithmetic operators must be numeric
+0:2(97): error: embedded structure declarations are not allowed
+error: linking with uncompiled shadererror: linking with uncompiled shaderFE: GPU: WARNING: Vertex Buffer - 'Cube' does not exist
+................. Not adding a non-existent vertex buffer to vertex layout - '_FE_Cube_FE_omgftw_FE_'
+
+
+
+2015-09-04.23:44:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+272272FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272

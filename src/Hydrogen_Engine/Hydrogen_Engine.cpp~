@@ -1,0 +1,12 @@
+#ifndef HYDROGEN_ENGINE_CPP_
+#define HYDROGEN_ENGINE_CPP_
+
+#include "HydrogenEngine.h"
+
+using namespace std;
+
+HydrogenEngine::~HydrogenEngine() {
+
+}
+
+#endif

@@ -1,0 +1,2704 @@
+written buffer
+
+//////////////////////////
+2015-06-22.19:23:12
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-22.20:26:34
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.18:12:42
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.19:33:22
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.19:35:03
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.19:36:00
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.19:37:47
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-06-25.19:40:26
+Renderer : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.11:49:56
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:26:17
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:27:35
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:27:48
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:28:45
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:31:45
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:33:22
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:33:33
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:34:33
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:36:21
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:37:46
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:38:36
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:41:37
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:41:49
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:42:21
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:42:28
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:46:22
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:49:21
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.12:49:28
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:13:44
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:15:26
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:17:08
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:27:37
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:29:35
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:29:45
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:35:49
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:36:00
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:36:08
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:36:20
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-07.13:36:31
+API : OpenGL 3.2 
+ Initiated Successfully
+FE ERROR: No active world loaded - 
+ Task: whatevera
+ Thread: default
+
+//////////////////////////
+2015-08-07.20:14:03
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:17:03
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:20:18
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:21:26
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:21:43
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:22:44
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:23:17
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:24:50
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:26:39
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:36:44
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-08.19:38:01
+API : OpenGL 3.2 
+ Initiated Successfully
+
+//////////////////////////
+2015-08-09.23:24:39
+API : OpenGL 3.2 
+ Initiated SuccessfullyFE WARNING: No Uniform Buffer found - general_data
+          Not executing "setUniform" 
+
+//////////////////////////
+2015-08-10.14:37:54
+API : OpenGL 3.2 
+ Initiated SuccessfullyFE WARNING: No Uniform Buffer found - general_data
+          Not executing "setUniform" 
+
+//////////////////////////
+2015-08-10.14:45:40
+API : OpenGL 3.2 
+ Initiated SuccessfullyFE WARNING: No Uniform Buffer found - general_data
+          Not executing "setUniform" FE WARNING: No Shader Program found - asd
+          Not executing "setProgramVS" FE WARNING: No Shader Program found - asd
+          Not executing "setProgramFS" FE WARNING: No Shader Program found - asd
+          Not executing "setupProgram" FE WARNING: No Shader Program found - asd
+          Not executing "setProgramUniformSlot" FE WARNING: No Shader Program found - asd
+          Not executing "setProgramUniformSlot" FE WARNING: No Shader Program found - asd
+          Not executing "setProgramUniformSlot" FE WARNING: No Shader Program found - omgftw
+          Not executing "setProgramVS" FE WARNING: No Shader Program found - omgftw
+          Not executing "setProgramFS" FE WARNING: No Shader Program found - omgftw
+          Not executing "setupProgram" FE WARNING: No Shader Program found - omgftw
+          Not executing "setProgramUniformSlot" FE WARNING: No Shader Program found - omgftw
+          Not executing "setProgramUniformSlot" FE WARNING: No Shader Program found - omgftw
+          Not executing "setProgramUniformSlot" FE WARNING: No Uniform Buffer found - asd_model_matrices
+          Not executing "setUniform" FE WARNING: No Drawable Vertex Layout found - asd
+          Not executing "drawInstances" FE WARNING: No Drawable Vertex Layout found - omgftw
+          Not executing "drawInstances" FE WARNING: No Uniform Buffer found - asd_model_matrices
+          Not executing "setUniform" 
+
+//////////////////////////
+2015-08-10.14:46:02
+API : OpenGL 3.2 
+ Initiated SuccessfullyFE WARNING: No Uniform Buffer found - general_data
+          Not executing "setUniform" 
+
+
+
+
+//////////////////////////
+2015-08-23.21:50:56
+API: OpenGL 3.2.0 NVIDIA 352.30
+
+
+//////////////////////////
+2015-08-23.21:51:45
+API: OpenGL 3.2.0 NVIDIA 352.30
+FE_SceneData
+
+//////////////////////////
+2015-08-29.01:11:46
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneData
+
+2015-09-02.22:59:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-09-02.22:59:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-09-02.23:01:37
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-09-02.23:02:16
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-09-03.13:04:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+0:2(208): error: `model' undeclared
+0:2(198): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(198): error:    mat4 transpose(mat4)
+0:2(198): error:    mat2 transpose(mat2)
+0:2(198): error:    mat3 transpose(mat3)
+0:2(198): error:    mat4 transpose(mat4)
+0:2(198): error:    mat3x2 transpose(mat2x3)
+0:2(198): error:    mat4x2 transpose(mat2x4)
+0:2(198): error:    mat2x3 transpose(mat3x2)
+0:2(198): error:    mat4x3 transpose(mat3x4)
+0:2(198): error:    mat2x4 transpose(mat4x2)
+0:2(198): error:    mat3x4 transpose(mat4x3)
+0:2(182): error: operands to arithmetic operators must be numeric
+0:2(182): error: operands to arithmetic operators must be numeric
+0:2(315): error: `model' undeclared
+0:2(305): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(305): error:    mat4 transpose(mat4)
+0:2(305): error:    mat2 transpose(mat2)
+0:2(305): error:    mat3 transpose(mat3)
+0:2(305): error:    mat4 transpose(mat4)
+0:2(305): error:    mat3x2 transpose(mat2x3)
+0:2(305): error:    mat4x2 transpose(mat2x4)
+0:2(305): error:    mat2x3 transpose(mat3x2)
+0:2(305): error:    mat4x3 transpose(mat3x4)
+0:2(305): error:    mat2x4 transpose(mat4x2)
+0:2(305): error:    mat3x4 transpose(mat4x3)
+0:2(277): error: operands to arithmetic operators must be numeric
+0:2(277): error: operands to arithmetic operators must be numeric
+0:2(97): error: embedded structure declarations are not allowed
+error: linking with uncompiled shadererror: linking with uncompiled shaderFE: GPU: WARNING: Vertex Buffer - 'Cube.001' does not exist
+................. Not adding a non-existent vertex buffer to vertex layout - '_FE_Cube.001_FE_asd_FE_'
+0:2(208): error: `model' undeclared
+0:2(198): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(198): error:    mat4 transpose(mat4)
+0:2(198): error:    mat2 transpose(mat2)
+0:2(198): error:    mat3 transpose(mat3)
+0:2(198): error:    mat4 transpose(mat4)
+0:2(198): error:    mat3x2 transpose(mat2x3)
+0:2(198): error:    mat4x2 transpose(mat2x4)
+0:2(198): error:    mat2x3 transpose(mat3x2)
+0:2(198): error:    mat4x3 transpose(mat3x4)
+0:2(198): error:    mat2x4 transpose(mat4x2)
+0:2(198): error:    mat3x4 transpose(mat4x3)
+0:2(182): error: operands to arithmetic operators must be numeric
+0:2(182): error: operands to arithmetic operators must be numeric
+0:2(315): error: `model' undeclared
+0:2(305): error: no matching function for call to `transpose(error)'; candidates are:
+0:2(305): error:    mat4 transpose(mat4)
+0:2(305): error:    mat2 transpose(mat2)
+0:2(305): error:    mat3 transpose(mat3)
+0:2(305): error:    mat4 transpose(mat4)
+0:2(305): error:    mat3x2 transpose(mat2x3)
+0:2(305): error:    mat4x2 transpose(mat2x4)
+0:2(305): error:    mat2x3 transpose(mat3x2)
+0:2(305): error:    mat4x3 transpose(mat3x4)
+0:2(305): error:    mat2x4 transpose(mat4x2)
+0:2(305): error:    mat3x4 transpose(mat4x3)
+0:2(277): error: operands to arithmetic operators must be numeric
+0:2(277): error: operands to arithmetic operators must be numeric
+0:2(97): error: embedded structure declarations are not allowed
+error: linking with uncompiled shadererror: linking with uncompiled shaderFE: GPU: WARNING: Vertex Buffer - 'Cube' does not exist
+................. Not adding a non-existent vertex buffer to vertex layout - '_FE_Cube_FE_omgftw_FE_'
+
+
+
+2015-09-04.23:44:22
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+272272FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272
+
+
+//////////////////////////
+2015-09-06.15:08:06
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+2720.500000 0.000000 0.000000 
+0.500000 0.000000 0.000000 
+1.000000 1.000000 
+0.000000 0.500000 0.000000 
+-0.000000 0.500000 0.000000 
+1.000000 1.000000 
+-0.500000 0.000000 0.000000 
+-0.500000 0.000000 0.000000 
+1.000000 1.000000 
+0 1 2 
+2720.500000 0.000000 0.000000 
+0.500000 0.000000 0.000000 
+1.000000 1.000000 
+0.000000 0.500000 0.000000 
+-0.000000 0.500000 0.000000 
+1.000000 1.000000 
+-0.500000 0.000000 0.000000 
+-0.500000 0.000000 0.000000 
+1.000000 1.000000 
+0 1 2 
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272
+
+//////////////////////////
+2015-09-06.15:45:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+2720.500000 0.000000 0.000000 
+0.500000 0.000000 0.000000 
+1.000000 1.000000 
+0.000000 0.500000 0.000000 
+-0.000000 0.500000 0.000000 
+1.000000 1.000000 
+-0.500000 0.000000 0.000000 
+-0.500000 0.000000 0.000000 
+1.000000 1.000000 
+0 1 2 
+FE_SceneDataFE_ObjectFE_Material2720.500000 0.000000 0.000000 
+0.500000 0.000000 0.000000 
+1.000000 1.000000 
+0.000000 0.500000 0.000000 
+-0.000000 0.500000 0.000000 
+1.000000 1.000000 
+-0.500000 0.000000 0.000000 
+-0.500000 0.000000 0.000000 
+1.000000 1.000000 
+0 1 2 
+FE_SceneDataFE_ObjectFE_Material272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272272
+
+//////////////////////////
+2015-09-06.16:22:59
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+272FE_SceneDataFE_ObjectFE_Material272FE_SceneDataFE_ObjectFE_MaterialFE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+272272FE: GPU: WARNING: Uniform Buffer - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube.001_FE_asd_FE_' does not exist
+................. Not drawing object
+FE: GPU: WARNING: Uniform Buffer - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not destroying uninitialized Uniform buffer
+FE: GPU: WARNING: VertexLayout - '_FE_Cube_FE_omgftw_FE_' does not exist
+................. Not drawing object
+
+
+//////////////////////////
+2015-09-09.13:51:01
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-09-10.00:38:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+-0.736585 1.000000 3.475853 
+-0.534532 0.584613 0.610309 
+0.000000 0.666667 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+-0.736585 1.000000 3.475853 
+-0.534532 0.584613 0.610309 
+0.000000 0.666667 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-09-10.11:45:28
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-09-10.11:57:17
+API: OpenGL 3.2.0 NVIDIA 352.30
+
+
+//////////////////////////
+2015-09-10.11:57:31
+API: OpenGL 3.2.0 NVIDIA 352.30
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_MaterialFE_ObjectFE_SceneData1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+FE_Material1.000000 FE_Object0.000000 
+1.074214 FE_SceneData0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+
+
+//////////////////////////
+2015-09-10.13:40:55
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-09-10.14:20:53
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-09-10.14:22:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-09-10.14:22:32
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-09-10.14:34:22
+API: OpenGL 3.2.0 NVIDIA 352.30
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_MaterialFE_ObjectFE_SceneData1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+FE_Material1.074213 FE_Object-1.000000 FE_SceneData0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+
+
+//////////////////////////
+2015-09-21.12:57:43
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneData1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneData
+
+//////////////////////////
+2015-09-21.12:59:14
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_SceneData
+
+//////////////////////////
+2015-09-21.14:23:34
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-09-21.18:11:22
+API: OpenGL 3.2.0 NVIDIA 352.30
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+1.074213 1.000000 0.052954 
+0.577349 0.577349 -0.577349 
+0.333333 0.333333 
+1.074213 -1.000000 0.052954 
+0.577349 -0.577349 -0.577349 
+0.000000 0.333333 
+-0.925787 -1.000000 0.052954 
+-0.577349 -0.577349 -0.577349 
+1.000000 0.333333 
+-0.925786 1.000000 0.052954 
+-0.577349 0.577349 -0.577349 
+1.000000 0.000000 
+1.074214 0.999999 2.052954 
+0.690085 0.722251 -0.045656 
+0.333333 0.333333 
+1.074213 -1.000001 2.052954 
+0.690085 -0.722251 -0.045656 
+0.333333 0.000000 
+-0.925787 -1.000000 2.052954 
+-0.719779 -0.692526 0.047639 
+0.333333 0.000000 
+-0.925786 1.000000 2.052954 
+-0.719779 0.692526 0.047639 
+0.000000 0.666667 
+1.263416 0.999999 3.475853 
+0.617695 0.570696 0.541002 
+0.000000 0.333333 
+1.263415 -1.000001 3.475853 
+0.617695 -0.570696 0.541002 
+0.333333 0.000000 
+-0.736585 -1.000000 3.475853 
+-0.534532 -0.584613 0.610309 
+0.333333 0.000000 
+0 1 2 
+7 6 10 
+4 5 1 
+5 6 2 
+2 6 7 
+0 3 7 
+11 10 9 
+5 9 10 
+4 7 11 
+4 8 9 
+3 0 2 
+11 7 10 
+0 4 1 
+1 5 2 
+3 2 7 
+4 0 7 
+8 11 9 
+6 5 10 
+8 4 11 
+5 4 9 
+FE_MaterialFE_ObjectFE_SceneDataFE_MaterialFE_ObjectFE_SceneData
+
+//////////////////////////
+2015-10-03.23:44:31
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-10-03.23:44:44
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+
+
+//////////////////////////
+2015-10-03.23:45:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2015-10-04.00:03:05
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.2
+FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-02-22.21:30:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-22.21:31:04
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1
+
+//////////////////////////
+2016-02-22.21:46:12
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-04-08.14:59:07
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-04-10.13:55:27
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-04-10.13:55:38
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-04-10.13:55:52
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
+
+//////////////////////////
+2016-04-10.17:30:57
+API: OpenGL 3.3 (Core Profile) Mesa 10.5.9
+worlds: 1FE_SceneDataFE_ObjectFE_MaterialFE_SceneDataFE_ObjectFE_Material
