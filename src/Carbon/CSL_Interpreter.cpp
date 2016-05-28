@@ -14,7 +14,8 @@ FE_World *CSL_Interpreter::interpret(const string &sourceCode) {
 	//parse "sourcecode"
 	parser = new CSL_Parser();
 	curNode = parser->parse(sourceCode);
-    cout << "FINISHED PARSING" << endl;
+	cout << "FINISHED PARSING" << endl;
+
 	//interpret the Abstract Syntax Tree obtained by parsing "sourceCode"
 	FE_World *world = new FE_World();
 	processWorld(world);
